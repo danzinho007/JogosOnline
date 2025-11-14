@@ -1,0 +1,23 @@
+Anel :
+
+Lire = Golem Glacial
+Elesis = Obscuro Gaia
+Arme = Flamejante
+Sieg = Brilhante Gaia
+Mari = Brilhante Gaia
+Decane = 
+Lupus = Golem Glacial
+Rey = Golem Glacial
+Veigas = Brilhante Gaia
+Azin = Golem Glacial
+
+Dio = Golem Glacial
+Lin = Golem Glacial
+Ronan = Golem Glacial
+Ryan = 
+Edel = Golem Glacial
+Lass = Brilhante Gaia
+Holy = 
+Zero = 
+Amy = Golem Glacial
+Jin = Obscuro Gaia

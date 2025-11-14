@@ -1,0 +1,146 @@
+Serdin
+1-Arredores Muro Serdin
+2-Praia Carry
+3-Templo Oak
+4-Calabouço Gorgos
+
+Canaban
+5-Floresta Élfica
+6-Vale Juramento
+7-Pântano Esquecido
+8-Cemitério dos Mortos
+9-Cidade Abandonada
+10-Castelo Gaicoz
+
+Ellia
+18-Mar Patusei
+19-Castelo Kamiki
+20-Templo Fogo
+21-Ponte Infernal
+22-Castelo Kazeaje
+23-Catacumbas Kastulle
+24-Ruínas Kastulle
+25-Fim Vermécia
+
+26-X Chegada Xênia
+27-X Templo Luz
+28-X Vale Penumbra
+11-T Floresta Antiga
+12-T Ruínas de Prata
+13-T Lago Crespúsculo
+29-X Desfiladeiro Incandescente
+14-T Pântado Leviatã
+15-T Ilha Selvagem
+30-X Altar Harmonia
+16-T Território Verme Dragão
+31-X Altar Destruição
+17-T Fortaleza do Victor
+32-X Floresta Vida
+33-X Templo Sintonia
+
+34-At Campo Goblins
+35-At Passagem Subterrânea
+36-At Vila Kungji
+41-Ar Base Anões
+37-At Deserto Miragens
+42-Ar Túnel Anões
+43-Ar Mjolnir
+44-Ar Ruínas Reino Antigo
+45-Ar Fronteira Karuel
+46-Ar Karuel
+38-At Vila Bandidos Deserto
+39-At Desfiladeiro Rá
+40-At Pirâmide Seth
+47-Ar Império Astaroth
+
+Outro Mundo :
+48-Cerco Teroka
+49-Templo Tempo
+50-
+
+11 - 11 - 11 - 11 
+12 ( 1 ) - 12 ( 2 )
+13 ( 3 )
+
+11 - 11 - 11 - 11 
+12 ( 4 ) - 12 ( 5 )
+13 ( 6 )
+
+13 - 13 
+14 ( 7 )
+
+11 - 11 - 11 - 11 
+12 ( 8 ) - 12 ( 9 )
+13 ( 10 )
+
+11 - 11 - 11 - 11 
+12 ( 11 ) - 12 ( 12 )
+13 ( 13 )
+
+13 - 13 
+14 ( 14 )
+
+14 - 14 
+15 ( 15 )
+
+-----------------
+
+10 - 10 - 10 - 10 
+11 ( 1 ) - 11 ( 2 )
+12 ( 3 )
+
+10 - 10 - 10 - 10 
+11 ( 4 ) - 11 ( 5 )
+12 ( 6 )
+
+12 - 12 
+13 ( 7 )
+
+10 - 10 - 10 - 10 
+11 ( 8 ) - 11 ( 9 )
+12 ( 10 )
+
+10 - 10 - 10 - 10 
+11 ( 11 ) - 11 ( 12 )
+12 ( 13 )
+
+12 - 12 
+13 ( 14 )
+
+13 - 13 
+14 ( 15 )
+
+10 - 10 - 10 - 10 
+11 ( 16 ) - 11 ( 17 )
+12 ( 18 )
+
+15 - 15 - 15 - 15
+16 - 16
+17
+
+Dia Julho :
+1 = 15
+2 = 15
+16
+7 = 15
+8 = 15
+16
+Final = 17
+9 = 15 
+14 = 15
+16
+15 = 15
+16 = 15
+16
+Final = 2 + 17
+21 = 15
+22 = 15
+16
+23 = 15
+28 = 15
+16
+Final = 3 +17
+29 = 15
+30 = 15
+16
+Final = 3 +16 e +16

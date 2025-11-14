@@ -1,0 +1,27 @@
+Dungeons :
+Lv = Nome - Recomendação
+
+05 = West of the Tree of El Lv 4-5
+06 = Monkey Forest Lv 6-7
+11 = North of the Tree of El Lv 8-9
+12 = Natural Caves Lv 12-13
+13 = North of the Tree of El Lv 8-9
+     Banthus Cave
+14 = Shadow Forest Lv 09-11
+   = Natural Caves Lv 12-13
+18 = Suburbs of Wally's Castle
+   = Wally's Castle
+19 = Wally's Castle
+20 = Wally's Castle
+21 = Natural Caves Lv 12-13
+   = Wally's Castle
+22 = Wally's Castle
+   = Shrine of Dedication Entrance
+25 = Bethma Gorges Lv 23-24 / Lv 25-26
+31 = The Black Crow Lv 31-33
+   = Shrine of Dedication Entrance
+33 = The Black Crow Lv 31-33
+37 = Altera Core Lv 41-42
+38 = Altera Plains Lv 37-48
+42 = Ninho do Dragão ( Secret )
+44 = Altera Core Lv 41-42

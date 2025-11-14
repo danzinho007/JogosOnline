@@ -1,0 +1,17 @@
+Comum
+Ataque 200
+Defesa 200 ( 400 )
+HP Max 50 ( 450 )
+Mp Ini 50 ( 500 )
+
+Missão
+Dano Hab 100 ( 600 )
+Dano Atac 50 ( 650 )
+Dano Chefe 50 ( 700 )
+Red Dano 50 ( 750 )
+
+Suporte
+Red Custo 100 ( 850 )
+Red Tempo 100 ( 950 )
+Exp 100 ( 1050 )
+GP 100 ( 1150 )

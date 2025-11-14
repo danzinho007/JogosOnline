@@ -1,0 +1,81 @@
+Títulos :
+
+Canaban > Serdin > Ellia > 
+Xênia 1 2 > Terra de Prata 1 2 3 > Xênia 1 >
+Terra de Prata 1 > Xênia 1 > Terra de Prata 1 >
+Xênia 1 > Áton > Arquimídia > Áton
+
+Serdin
+1-Arredores Muro Serdin
+2-Praia Carry
+3-Templo Oak
+4-Calabouço Gorgos
+
+Canaban
+5-Floresta Élfica
+6-Vale Juramento
+7-Pântano Esquecido
+8-Cemitério dos Mortos
+9-Cidade Abandonada
+10-Castelo Gaicoz
+
+Terra de Prata
+11-Floresta Antiga
+12-Ruínas de Prata
+13-Lago Crespúsculo
+14-Pântado Leviatã
+15-Ilha Selvagem
+16-Território Verme Dragão
+17-Fortaleza do Victor
+
+Ellia
+18-Mar Patusei
+19-Castelo Kamiki
+20-Templo Fogo
+21-Ponte Infernal
+22-Castelo Kazeaje
+23-Catacumbas Kastulle
+24-Ruínas Kastulle
+25-Fim Vermécia
+
+Xênia
+26-Chegada Xênia
+27-Templo Luz
+28-Vale Penumbra
+29-Desfiladeiro Incandescente
+30-Altar Harmonia
+31-Altar Destruição
+32-Floresta Vida
+33-Templo Sintonia
+
+Áton
+34-Campo Goblins
+35-Passagem Subterrânea
+36-Vila Kungji
+37-Deserto Miragens
+38-Vila Bandidos Deserto
+39-Desfiladeiro Rá
+40-Pirâmide Seth
+
+Arquimídia
+41-Base Anões
+42-Túnel Anões
+43-Mjolnir
+44-Ruínas Reino Antigo
+45-Fronteira Karuel
+46-Karuel
+47-Império Astaroth
+
+Outro Mundo :
+48-Cerco Teroka
+49-Templo Tempo
+50-
+
+Lire 85
+Elesis 85
+Arme 85
+Ryan 82
+Amy 85
+
+Mari 85
+Decane 85

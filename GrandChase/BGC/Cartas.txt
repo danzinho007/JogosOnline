@@ -1,0 +1,222 @@
+Grand Chase Cartas :
+
+--Lire = Lendárias 
+--Elesis = Serdin ( Só as normais )
+1-Cogumelo = OK 
+Gosma = OK
+Goblin = OK
+Goblin Pedra = OK
+5-Harpia = OK
+Oak = OK
+Gon = OK
+Gorgon = OK
+...
+Caranguejo = OK
+Gosma = Azul = OK
+11-Gosma Vermelha = OK
+
+-Arme = Canaban
+Guerreiro Oak = 
+Oak Pedra = 
+Drillmon = 
+Gosma Verde = 
+Mago Negro = 
+Esqueleto = 
+Guerreiro Oak = 
+Paramini = 
+
+Floresta do Desafio = 1
+Torre Sombria = 2
+Arredores de Serdin = 3
+Praia Carry = 4
+Templo Oak = 5
+Calabou�o do Gorgos = 6
+
+Depois de Tunel dos An�es = *
+
+L-Amon Negro = ???
+E-�rvore Divina = Floresta da Vida
+E-Astaroth = Imp�rio de Astaroth
+E-Barakufu Imortal = ???
+N-B�rbaro = ???
+
+N-Caixa Amaldi�oada = ???
+*N-Caranguejo Monstruoso = 4 (OK)
+N-Ciclope = ???
+N-Cogumelo = 1 (OK)
+
+E-Deus da Luz = ???
+R-Drag�o do Deserto = ???
+R-Duel = ???
+
+N-Encapuzado = ???
+R-Ente (Chefe) = 1 (OK)
+E-Escaralho do Deserto = ???
+
+N-Fazendeiro = ???
+R-Ferrovi�ria Fantasma = Evento Expresso 
+
+N-Gagoli = ???
+NC-Goblin = 1,2,3 (OK)
+N-Goblin de Pedra = 2,3, (OK)
+E-Golem Gigante = ???
+R-Golem M�stico = ???
+NC-Gon = 6 (OK)
+N-Gorgos = 6 (OK)
+-Gorgos Vermelho (Chefe) = 6 (OK)
+N-Gosma = 1,2 (OK)
+*NC-Gosma Azul = 4 (OK)
+-Gosma Vermelha = 6 (OK)
+N-Guarda Amon = ???
+N-Guarde de Elite = ???
+R-Guardi�o = Evento Gosma
+R-Guerreiro Oak (Chefe) = 3 (OK)
+
+N-Harpia = 4 (OK)
+-Lorde Oak (Chefe) = 5 (OK)
+N-Mago Negro = ???
+N-M�mia de Seth = ???
+
+N-Oak = 3,5 (OK)
+NC-Oak de Pedra = 5 (OK)
+
+R-Paradom = ???
+N-Patrulheiro Amon = ???
+R-Rainha Harpia (Chefe) = 4 (OK)
+N-Rato Mutante = ???
+
+N-Sataniel = ???
+E-Setesh = ???
+N-Soldado Esgrimista = ???
+N-Soldado Lanceiro = ???
+
+N-Texugo = N�o tem 
+R-Venese = ???
+R-Wendy (Chefe)= 2 (OK)
+
+Torre Sombria :
+
+
+Cartas :
+
+AmonNegro = !!!
+Anci�oKungji = !!!
+Aron = !!!
+�rvoreDivina = !!!
+Astaroth = !!!
+BandidoB�rbaro = !!!
+BarakhufuImortal = !!!
+CaixaAmaldi�oada = !!!
+Caxias = !!!
+CobradorFantasma = !!!
+Demon�aco = !!!
+DeusAstaroth = !!!
+DeusLuz = !!!
+Drall = !!!
+DragonDeserto = !!!
+Duel = !!!
+EscaravelhoDeserto = !!!
+Fornalha301 = !!!
+Fornalha301
+Gagoli = !!!
+GoblinCiclope = !!!
+GolemGigante = !!!
+GolemM�stico = !!!
+GuardaAmon = !!!
+GuardaElite = !!!
+Guardi�o = !!!
+Gumiho = !!!
+Hatsheput = !!!
+InfantariaA�o = !!!
+L�derEsquadr�o = !!!
+LotusDonaHotel = !!!
+ManoNegro = !!!
+Mensageiro = !!!
+M�miaSeth = !!!
+Nemophilia = !!!
+N�cleoDemon�aco = !!!
+Paradom = !!!
+PatrulheiroAmon = !!!
+PilotoEncapuzado = !!!
+PrisioneiroFantasma = !!!
+ReiGosmaGuardi�o = !!!
+ReiGosmaJuiz = !!!
+ReiGosmaMensageiro = !!!
+Sataniel = !!!
+Setesh = !!!
+Texugo = !!!
+Vairne = !!!
+Venese = !!!
+Z�Fuma�a = !!!
+
+* = Resist�ncia a Contamina��o ( Harrier )
+
+Elmo :
+Defesa : 
+152 = Pregui�osaMolly (85) TemploTempo
+151L = Astaroth (?)
+146 = Zekars (85)*
+143 = CavaleiroFerro (85)*
+137 = Esp�rito(80) CercoTeroka
+135 = L�derEsquadr�o(85)*
+130 = M�quinaCombate(75) Tunel
+      Escaravelho (78) Deserto
+      L�derNativos (85)*
+      NagaHarrier (85)*
+108 = DKMarkI(64) AltarDestrui��o
+099 = LutadorAss(58) ValePenumbra
+084 = MiniGolem(50) Ru�nasKastule
+070 = MagoNegro(40) CasteloKamiki
+061 = Lanceiro(36) FortalezaVictor
+051 = Esp�ritoN�vio(30) LagoCrep�sculo
+046 = GuerreiroEsqueleto (26) Ru�nasPrata
+032 = GosmaVerde(16) P�ntanoEsquecido
+025 = Gorgos(10) Calabou�oGorgos
+008 = GoblinPedra(2) ArredoresSerdin
+
+Vitalidade 
+151 = X�nia x1
+141 = Imp�rio x1
+141 = Mjonir x1
+137 = LagartoGuerreiro(83) Berkas
+125 = PlantaCarn�vora(85)* !!!
+119 = LarvaHarrier(85)* !!!
+113 = Gagoil(68) TemploSintonia !!!
+
+Cota e Capa :
+Ataque 440 = Ru�nas
+MP Rec 6.37 = Imp�rio
+       6.02 = Ev Gosma ou T�nel
+Vital 151 = Fronteira
+
+Arma e Luva :
+Acc Cr�t 2.76 = �ton
+  	 2.70 = Berkas
+DanoCr�t :
+T�nel An�es = Escavador(C) +22.62%
+Desfiladeiro R� = Karte(E) 24.07%
+Imp�rio Astaroth = MestreFeiticeiro(E) 24.07%
+Fronteira Karuel = Daliah(E) 25.81%
+Berkas = Berkas(E) 26.39%
+
+Ataque :
+Torre Sombria = Wendy +35
+Calabou�o Gorgos = Gorgos +75
+Cidade Abandonada = Paramini +100
+Ru�nas Prata = Rainha +155
+Ilha Selvagem = Mosquito +160
+Fortaleza Victor = Escudeiro +160
+Templo de Fogo = Monban +200
+Catacumbas Kastulle = Ciclope +280
+Fim Verm�cia = Lorde Oak +280
+Templo Luz = Deus +320
+Altar Harmonia = Kenkro 310
+Templo Sintonia = Tempestado +350
+Vila Kungji = Xam� +360
+
+Capa e Sapato :
+Defesa 130 = Passagem
+       127 = Base
+MP Rec 5.74 = Karuel
+Atq Esp 714 = Ev Gosma ou Pir�mide
+        672 = Mjonir

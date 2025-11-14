@@ -1,0 +1,201 @@
+Partes 5 = Elmo, Cota, Cal�a, Luvas e Botas
+
+Lv 24 Guerreiro Sagrado Raro :
+Onix Vermecia = 10 ( 5 x 2 )
+P� Top�zio = 12 ( 3 x 4 )
+P� Rubi = 4 ( 4 x 1 )
+P� Safira = 4  ( 4 x 1 )
+
+Lv 24 Guerreiro Sagrado �pico :
+Onix Vermecia = 20 ( 5 x 4 )
+P� Top�zio = 24 ( 3 x 8 )
+P� Rubi = 8 ( 8 x 1 )
+P� Safira = 8 ( 8 x 1 )
+
+Lv 39 Victor Raro :
+Onix Terra Prata = 15 ( 5 x 3 )
+Lascas Topazio = 15 ( 3 x 5 )
+Esp�rito Aprendiz = 1.750 ( 5 x 350 )
+Vontade Grande = 1.165 ( 5 x 233 )
+Lascas Rubi = 5 ( 5 x 1 )
+Lascas Safira = 5 ( 5 x 1 )
+
+Lv 39 Victor �pico :
+Onix Terra Prata = 30 ( 5 x 6 )
+Lascas Topazio = 30 ( 10 x 3 )
+Esp�rito Aprendiz = 3.500 ( 700 x 5 )
+Vontade Grande = 2.330 ( 466 x 5 )
+Desejo Mestre = 1.555 ( 311 x 5 )
+Lascas Rubi = 10 ( 10 x 1 )
+Lascas Safira = 10 ( 10 x 1 )
+
+Lv 54 Cazeaje Raro :
+Onix Ellia = 15 ( 5 x 3 )
+Top�zio = 24 ( 8 x 3 )
+Rubi = 8 ( 8 x 1 )
+Safira = 8 ( 8 x 1 )
+Noctium = 765 ( 153 x 5 )
+Noctium Concentrado = 510 ( 102 x 5 )
+
+Lv 54 Cazeaje �pico :
+Onix Ellia = 30 ( 6 x 5 )
+Top�zio = 48 ( 16 x 3 )
+Rubi = 16 ( 16 x 1 )
+Safira = 16 ( 16 x 1 )
+Noctium = 1.530 ( 306 x 4 )
+Noctium Concentrado = 1.020 ( 204 x 5 )
+Noctium Super Concentrado = 680 ( 136 x 5 )
+
+Lv 63 Sharkaron Raro :
+Onix X�nia = 25 ( 5 x 5 )
+Top�zio = 39 ( 13 x 3 )
+Rubi = 13 ( 13 x 1 )
+Safira = 13 ( 13 x 1 )
+Asgardium = 810 ( 162 x 5 )
+Asgardium Concentrado = 540 ( 108 x 5 )
+
+Lv 63 Sharkaron �pico :
+Onix X�nia = 50 ( 10 x 5 )
+Top�zio = 78 ( 26 x 3 )
+Rubi = 26 ( 26 x 1 )
+Safira = 26 ( 26 x 1 )
+Asgardium = 1.620 ( 325 x 5 ) 
+Asgardium Concentrado = 1.080 ( 216 x 5 )
+Asgardium Super Concentrado = 720 ( 144 x 5 )
+
+Lv 69 Thanatos Raro :
+Onix X�nia = 35 ( 7 x 5 ) 
+Top�zio = 51 ( 17 x 3 )
+Rubi = 17 ( 17 x 1 )
+Safira = 17 ( 17 x1 )
+Asgardium = 1.350 ( 270 x 5 )
+Asgardium Concentrado = 900( 180 x 5 )
+
+Lv 69 Thanatos �pico :
+Onix X�nia = 70 ( 14 x 5 )
+Top�zio = 102 ( 34 x 3 )
+Rubi = 34 ( 34 x 1 )
+Safira = 34 ( 34 x 1 )
+Asgardium = 2.700 ( 540 x 5 )
+Asgardium Concentrado = 1.800 ( 360 x 5 )
+Asgardium Super Concentrado = 1.200 ( 240 x 5 )
+
+Lv 75 Kungji Raro :
+Onix �ton = 35 ( 7 x 5 )
+Topazio = 51 ( 17 x 3 )
+Rubi = 17 ( 17 x 1 )
+Safira = 17 ( 17 x 1 )
+Ensiontium = 1.350 ( 270 x 5 )
+Ensiontium Concentrado = 900 ( 180 x 5 )
+
+Lv 75 Kungji �pico :
+Onix �ton = 70 ( 14 x 5 )
+Topazio = 102 ( 34 x 5 )
+Rubi = 34 ( 34 x 1 )
+Safira = 34 ( 34 x 1 )
+Ensiontium = 2.700 ( 540 x 5 )
+Ensiontium Concentrado = 1.800 ( 360 x 5 )
+Ensiontium Super Concentrado = 1.200 ( 240 x 5 )
+
+Lv 81 Sentinela Raro :
+Onix Arquim�dia = 55 ( 11 x 5 )
+Top�zio = 78 ( 26 x 3 )
+Rubi = 26 ( 26 x 1 )
+Safira = 26 ( 26 x 1 )
+Ensiontium = 2.050 ( 410 x 5 )
+Ensiontium Concentrado = 1.365 ( 273 x 5 )
+
+Lv 81 Sentinela �pico :
+Onix Arquim�dia = 110 ( 22 x 5 )
+Top�zio = 156 ( 52 x 3 )
+Rubi = 52 ( 52 x 1 )
+Safira = 52 ( 52 x 1 )
+Ensiontium = 4.100 ( 820 x 5 )
+Ensiontium Concentrado = 2.730 ( 546 x 5 )
+Ensiontium Super Concentrado = 1.820 ( 364 x 5 )
+
+Lv 85 Berkas 1 arma somente :
+Fragmentos Fenix Fantasma = 72 ( 6 x 12 )
+N�cleo Fornalha = 144 ( 12 x 12 )
+N�cleo Altar = 144 ( 12 x 12 )
+N�cleo Torre = 216 ( 18 x 12 )
+Moedas = 240 ( 40 x 6 ) + 60 ( 60 x 1 ) + 250 ( 50 x 5 ) total : 5500
+GP = 12 milh�es
+
+Lv 24 Guerreiro Sagrado �pico :
+Onix Vermecia = 20 ( 5 x 4 )
+P� Top�zio = 24 ( 3 x 8 )
+P� Rubi = 8 ( 8 x 1 )
+P� Safira = 8 ( 8 x 1 )
+OK
+
+Lv 39 Victor �pico :
+Onix Terra Prata = 30 ( 5 x 6 )
+Lascas Topazio = 30 ( 10 x 3 )
+Esp�rito Aprendiz = 3.500 ( 700 x 5 )
+Vontade Grande = 2.330 ( 466 x 5 )
+Desejo Mestre = 1.555 ( 311 x 5 )
+Lascas Rubi = 10 ( 10 x 1 )
+Lascas Safira = 10 ( 10 x 1 )
+OK
+
+Lv 54 Cazeaje �pico :
+Onix Ellia = 30 ( 6 x 5 )
+Top�zio = 48 ( 16 x 3 )
+Rubi = 16 ( 16 x 1 )
+Safira = 16 ( 16 x 1 )
+Noctium = 1.530 ( 306 x 4 )
+Noctium Concentrado = 1.020 ( 204 x 5 )
+Noctium Super Concentrado = 680 ( 136 x 5 )
+OK
+
+Lv 69 Thanatos �pico :
+Onix X�nia = 70 ( 14 x 5 )
+Top�zio = 102 ( 34 x 3 )
+Rubi = 34 ( 34 x 1 )
+Safira = 34 ( 34 x 1 )
+Asgardium = 2.700 ( 540 x 5 )
+Asgardium Concentrado = 1.800 ( 360 x 5 )
+Asgardium Super Concentrado = 1.200 ( 240 x 5 )
+
+Top�zio = 48 + 102 > 150
+Rubi = 16 + 34     > 50
+Safira = 16 + 34   > 50
+OK
+
+Lv 75 Kungji �pico :
+Onix �ton = 70 ( 14 x 5 )
+Topazio = 102 ( 34 x 5 )
+Rubi = 34 ( 34 x 1 )
+Safira = 34 ( 34 x 1 )
+Ensiontium = 2.700 ( 540 x 5 )
+Ensiontium Concentrado = 1.800 ( 360 x 5 )
+Ensiontium Super Concentrado = 1.200 ( 240 x 5 )
+
+Top�zio = 48 + 102 > 150 + 102 >> 252
+Rubi = 16 + 34     > 50 + 34   >> 84
+Safira = 16 + 34   > 50 + 34   >> 84
+OK
+
+Lv 81 Sentinela �pico :
+Onix Arquim�dia = 110 ( 22 x 5 )
+Top�zio = 156 ( 52 x 3 )
+Rubi = 52 ( 52 x 1 )
+Safira = 52 ( 52 x 1 )
+Ensiontium = 4.100 ( 820 x 5 )
+Ensiontium Concentrado = 2.730 ( 546 x 5 )
+Ensiontium Super Concentrado = 1.820 ( 364 x 5 )
+
+Top�zio = 48 + 102 > 150 + 102 > 252 + 156 > 408
+Rubi = 16 + 34     > 50 + 34   > 84 + 52 > 136
+Safira = 16 + 34   > 50 + 34   > 84 + 52 > 136
+Ensiontium = 2.700 + 4.100 > 6.800
+Ensiontium Conct = 1.800 + 2.730 > 4.530
+Ensiontium SuperConct = 1.200 + 1.820 > 3.020
+OK
+
+
+
+
+
+

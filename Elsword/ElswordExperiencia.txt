@@ -1,0 +1,158 @@
+Dicionário :
+
+thieves = 
+
+Notas :
+
+Ann = 
+Anne = 
+Ancient Phory = 
+Banthus = 
+Forest Ruins
+Hagus
+Lake Noah
+Monkey King = 
+Ruben
+Tobu
+Tree of El
+Village
+White Mist Swamp
+William Phoru =
+
+Elden : 
+Tree of El
+Forest Ruins
+White Mist Swamp = Parte 4
+--Ruben :
+-Shadow Forest = 120.036
+-Banthus Cave = não peguei xp
+--Besma :
+-Dragon Road = 1.080.569
+Bethma Lake = 517.777
+Altera :
+The Black Crow = 2.286.009
+Altera Plains = 2.293.694
+Peita :
+Shrine of Dedication = 2.492.640
+Spiral Corridor = 2.752.462
+Velder :
+Residential Are 3 = 3.577.623
+Hope Bridge = 6.110.108
+Palace Entrance = 5.390.109
+Hamel :
+Resiam Outskirts = 5.605.880
+Sunkern Resiam = 8.145.533
+Ancient Waterway = 10.318.127
+Heart of the Ancient = 10.259.776
+Sander :
+Barren Sander = Caiu + 9.105.084
+Garpai Rock = 10.196.792
+13.579.928
+Trock's Lair = 18.264.388
+Caluso Tribal = 8.189.544
+12.390.678
+Sandtillus = 15.337.398
+Heart of Behemoth = 17.894.088
+11.352.938
+
+Secret :
+Wally's Underground = 3.005.232
+
+Antiga = Season 1
+Nova = Sem nada ao lado
+
+Lv
+01 = 1.000 ( Season 1 )
+02 = 1.600 ( Season 1 )
+03 = 2.700 ( Season 1 ) 
+04 = ???
+05 = 5.900 ( Season 1 )
+
+06 = ???
+07 = ??
+08 = 2.900 ( Novo )
+08 = 11.300 ( Season 1 )
+09 = ???
+10 = 49.400 ( Season  1 )
+7.700 ( ??? )
+17.700
+21.300 ( ??? )
+
+11 = 62.500 ( Season 1 )
+12 = 25.800 ( Season 1 )
+13 = 30.000 ( Season 1 )
+36.700
+14 = 34.700 ( Season 1 )
+15 = 39.500 ( Season 1 )
+
+16 = 44.600 ( Season 1 )
+60.300
+17 = 49.900 ( Season 1 )
+18 = 55.400 ( Season 1 ) 
+19 = 61.900 ( Season 1 )
+220.600
+284.800
+
+311.200
+20 = 93.800 ( Season 1 )
+21 = 112.700 ( Season 1 )
+22 = 134.500 ( Season 1 )
+23 = 159.500 ( Season 1 )
+24 = 188.100 ( Season 1 )
+25 = 220.800 ( Season 1 )
+
+26 = 258.000 ( Season 1 )
+27 = 300.200 ( Season 1 )
+28 = 348.000 ( Season 1 )
+29 = 405.000 ( Season 1 )
+30 = 496.300 ( Season 1 )
+
+31 = 578.200 ( Season 1 )
+32 = 671.200 ( Season 1 )
+33 = 600.000 ( ??? )
+33 = 776.700 ( Season 1 )
+34 = 896.100 ( Season 1 )
+587.000
+822.800
+35 = 1.031.000 ( Season 1 )
+
+36 = 1.183.200 ( Season 1 )
+37 = 1.354.700 ( Season 1 )
+1.147.700
+1.425.400
+38 = 1.457.700 ( Season 1 )
+1.763.000
+Lv 39 = 1.772.500 ( Season 1 )
+
+40 = 2.024.700 ( Season 1 )
+2.405.900
+41 = 2.211.100 ( Season 1 )
+2.241.400 ( Season 1 )
+42 = 2.475.800 ( Season 1 )
+43 = 2.729.200 ( Season 1 )
+2.965.000
+44 = 3.002.900 ( Season 1 )
+
+45 = 3.298.300 ( Season 1 )
+46 = 3.616.700 ( Season 1 )
+47 = 3.959.700 ( Season 1 )
+48 = ???
+49 = 5.577.700 ( Season 1 )
+50 = 5.080.800 ( Season 1 )
+
+3.643.400
+4.467.200
+5.458.100
+6.655.800
+7.359.000
+8.136.200
+8.988.100
+10.966.300
+12.101.100
+13.339.900
+14.702.300
+16.183.400
+17.838.100
+19.674.000
+
+65 = 19.423.000 ( Season Nova )

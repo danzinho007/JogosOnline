@@ -1,0 +1,18 @@
+Lire = Gaicoz, Gon e Duel Jr
+Capa = OK
+Elmo = Falta 40
+Cota = OK
+Calça = Falta +40 = 80
+Luva = Falta +40 = 120
+Sapato = Falta +40 = 160
+Besta = Falta +60 = 220
+Diadema = Falta +50 = 270
+Máscara = OK
+Asas = Falta +50 = 320
+Facas = Falta +50 = 370
+Escudo = Falta +50 = 420
+
+Elesis, Lire e Arme, 
+Lass, Ryan e Ronan
+Amy, Jin e Sieg
+Mari e Veigas

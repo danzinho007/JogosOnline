@@ -1,0 +1,6 @@
+
+Conta01 :
+    Fazer : Todos > Desafio Épico e Cerco
+            Lire > Templo
+Conta02 : 
+    Fazer : Desafio Épico, Cerco e Farmar título

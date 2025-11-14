@@ -1,0 +1,809 @@
+Conjunto Regional :
+
+>> Ruben
+
+Gigante Vermelho Avançado ( 14-18 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Patter Lv 1 = 4x
+Weapon Cast Lv 1 = 1x
+Ruben Forest's Spirits = 4x ( 4 pra Armas e 4 pra Armadura )
+
+Efeito de 2 peças:
+Uma chance de 10% de dano recebido ser reduzido em 30%. (Masmorra)
+
+Efeito de 4 peças:
+Crítico +7% (Masmorra)
+
+Efeito de 5 peças:
+Uma chance de 100% de dano recebido ser reduzido em 50% quando atacado por chefes do tipo 
+Phoru (exceto Giant White Phoru e Ancient Phoru ). (Masmorra)
+
+Gigante Bandido Avançado ( 12-14 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 1x = 4x
+Weapon Cast Lv 1 = 1x
+Banthus Bandits'Hoods = 8x ( 4 pra Arma e 4 pra Armadura )
+
+Efeito de 2 peças:
+Recuperação de MP Atacado +5% (Masmorra) > 8%
+Efeito de 4 peças:
+Duração do Despertar +30% (Masmorra) > 39,75%
+Efeito de 5 peças:
+Dano de Habilidade Ativa Especial +10%
+
+Gigante Mercenário Avançado ( 16-18 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 1 = 4x
+Weapon Cast Lv 1 = 1x
+Flag of thr Mercenaries = 16x ( 8 pra Arma e 8 pra Armadura )
+
+Efeito de 2 peças:
+5% de chance de MP +16 quando atacado. (Masmorra) > +20
+Efeito de 4 peças:
+Dano duplo contra mobs derrubados (Masmorra) > 2,5x
+Efeito de 5 peças:
+Uma chance de 100% de dano recebido ser reduzido em 
+20% ( 50 % ) quando atacado por Totem e Geyser. (Masmorra)
+Atributos de Resistência ao Fogo +170 (Masmorra) > 250
+
+>>> Besma
+
+Chefe Rocha Vermelha Avançado ( 24-26 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 2 = 4x
+Weapon Cast Lv 2 = 1x
+Bethma Native Dyestuff = 24x ( 12 pra Arma e 12 pra Armadura )
+
+Efeito de 2 peças:
+Defesa Física -20 (Masmorra) > -15
+Defesa Mágica +50 (Masmorra) > +70
+Efeito de 4 peças:
+Dano de Habilidade Ativa Especial +10%
+Efeito de 5 peças:
+Ataque Físico -250 (Masmorra) > -200
+Ataque Mágico +500 (Masmorra) : +600
+
+Mineiro Naso Avançado ( 28-30 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 2 = 4x
+Weapon Cast Lv 2 = 1x
+Miner's Cloth = 32x ( 16 pra Arma e 16 pra Armadura )
+
+Efeito de 2 peças:
+Defesa Física +100 (Masmorra) > 120
+Defesa Mágica -40 (Masmorra) > -30
+Efeito de 4 peças:
+Crítico +3% (Masmorra) > 5%
+Efeito de 5 peças:
+Ataque Físico +300 (Masmorra) > +400
+Ataque Mágico -100 (Masmorra) > -100
+
+>>> Altera 
+
+Corvo Negro Avançado ( 32 - 34 ) 
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 3 = 4x
+Weapon Cast Lv 3 = 1x
+Black Crow's Feather Ornaments = 40x ( 20 pra e 20 pra Armadura )
+
+Efeito de 2 peças:
+Uma chance de 7% de dano recebido ser reduzido em 50%. 
+(Masmorra) > 10% e 50%
+Efeito de 4 peças:
+Uma chance de 50% de resistência a Lesão na Perna . 
+(Masmorra)
+50% de chance de Queimar
+resistência. (Masmorra)
+Uma chance de 50% de resistência a veneno . 
+(Masmorra)
+Uma chance de 50% de resistência elétrica . 
+(Masmorra)
+Uma chance de 50% de resistência à Confusão . 
+(Masmorra)
+Uma chance de 50% de resistência à Maldição . 
+(Masmorra)
+Efeito de 5 peças:
+Crítico +6% (Masmorra) > +7%
+
+Altera Avançado ( 36 - 38 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 3 = 4x
+Weapon Cast Lv 3 = 1x
+Shape Memory Alloy = 56x ( 28 pra Arma e 28 pra Armadura )
+
+Efeito de 2 peças:
+Uma chance de 5% de MP +16 quando atacado. 
+(Masmorra) > MP +20
+Efeito de 4 peças:
+Uma chance de 5% de ativação da Super Armadura por 
+6 segundos quando atacado. (Masmorra) > +8%
+Efeito de 5 peças:
+4% de chance de lançar ataque duplo ao atacar 
+(não incluindo ativos especiais) (Masmorra) > 6%
+
+>> Peita
+
+Cavaleiro Real de Peita Avançado ( 40 - 42 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 4 = 4x
+Weapon Cast Lv 4 = 1x
+Evil Spirit's Essence = 72x ( 36 pra Arma e 36 pra Armadura )
+
+Efeito de 2 peças:
+Uma chance de 25% de resistência a veneno . 
+(Masmorra)
+Uma chance de 25% de resistência à Maldição . 
+(Masmorra)
+Efeito de 4 peças:
++0,5% de chance de efeito elemental (Sem efeito se sua 
+arma tiver dois atributos) (Masmorra)
+Efeito de 5 peças:
+3% de chance de invocar um Fantasma ao atacar 
+(Masmorra)
+
+>> Velder 
+
+Milícia Velder Avançado ( 44 - 46 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 4 = 4x
+Weapon Cast Lv 4 = 1x
+Glitter Armor Piece = 102 ( 50 pra Arma e 52 pra Armadura )
+
+Caçador de Glitter Avançado ( 48 - 50 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 4 = 4x
+Weapon Cast Lv 4 = 1x
+Dark Crystal = 120x ( 60 pra Arma e 60 pra Armadura )
+
+>>> Hamel 
+
+Tempestade Avançado ( 54 - 56 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 5 = 4x
+Weapon Cast Lv 5 = 1x
+Tangled Element Shard = 120x ( 60 pra Arma e 60 pra Armadura )
+
+Flor de Fogo Avançado ( 54 - 56 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 5 = 4x
+Weapon Cast Lv 5 = 1x
+Tangled Element Shard = 120x ( 60 pra Arma e 60 pra Armadura )
+
+Caos Bizzarro ( 58 - 60 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 5 = 4x
+Weapon Cast Lv 5 = 1x
+The Great Chaos of Wind Crystal = 120x ( 60 pra Arma e 60 pra Armadura )
+
+Vento Retorcido ( 58 - 60 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 5 = 4x
+Weapon Cast Lv 5 = 1x
+The Great Chaos of Wind Crystal = 120x ( 60 pra Arma e 60 pra Armadura )
+
+>>> Sander
+
+Rocha Negra Avançado ( 62 - 64 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 6 = 4x
+Weapon Cast Lv 6 = 1x
+Black Storm Crystal = 120x ( 60 pra Arma e 60 pra Armadura )
+
+Tempestade no Deserto Avançado ( Lv 62 - 64 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 6 = 4x
+Weapon Cast Lv 6 = 1x
+Black Storm Crystal = 120x ( 60 pra Arma e 60 pra Armadura )
+
+Behemorth Caído ( Lv 66 - 68 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 6 = 4x
+Weapon Cast Lv 6 = 1x
+Demon's Runic Core = 107x ( 55 pra Arma e 52 pra Armadura )
+
+Guarda Demônio ( Lv 66 - 68 )
+
+Item Cru que dropa em fase , campo ou em caixas
+Armor Pattern Lv 6 = 4x
+Weapon Cast Lv 6 = 1x
+Demon's Runic Core = 107x ( 55 pra Arma e 52 pra Armadura )
+
+
+>>> Notas de Magia
+
+
+Burning Flame = Pág 1
+Flaming Block = Pág 1
+Icy Block = Pág 1
+Recycle Heat = Pág 1
+Snowy Blizzard Mountain = Pág 1
+
+
+
+
+
+
+
+
+
+Vendo
+https://m.blog.naver.com/goelsword/60102344535
+https://blog.naver.com/PostView.naver?blogId=goelsword&logNo=60100092384&parentCategoryNo=1&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+https://www.inven.co.kr/webzine/news/?game=348&page=10
+https://game.donga.com/search/?page=12&query=%EC%97%98%EC%86%8C%EB%93%9C
+http://brokendisc.web.fc2.com/elsword/skillsimulator/English/revamp/sk.html
+https://www.elwiki.net/w/List_of_Skill_Trees
+https://www.elwiki.net/w/Elsword_World
+https://elsword.koggames.com/achievement-system/
+https://ainchase.tumblr.com/post/154967214831/elrios-timeline
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JCglvKmZLXfPUH4cUQbOCIgCZFYache4LO3KKnysGVU&font=Default&lang=en&initial_zoom=5&height=850
+https://docs.google.com/document/d/1k-PqLRxdtn5UdTc87V5th--Up9k-XW_kX3MtjTT0bFc/edit
+https://docs.google.com/document/d/1lDb_h7unbl1HpnVRDok0_Y33Pu8wUWvZCENuiKjcVII/edit#
+https://forum.ragezone.com/f997/elsword-void-elsword-international-elsword-1007042/
+
+
+Mês / Dia / Ano
+
+
+!!! 2007 !!!
+
+Dezembro :
+
+27/12 = 13.000 Jogadores simultâneos 
+
+12/27/2007 Beginners's Forest added.
+https://elwiki.net/w/Beginners%27s_Forest
+
+12/27/2007 West of the Tree of El added.
+N 2-3 , H 3-4 e VH 4-5
+https://elwiki.net/w/West_of_the_Tree_of_El
+
+12/27/2007 Tree of El added.
+N 3-4, H 4-5 e VH 5-6
+https://elwiki.net/w/Tree_of_El_(Old)
+
+12/27/2007 Monkey Forest added
+N 4-5, H 5-6 e VH 6-7
+https://elwiki.net/w/Monkey_Forest
+
+12/27/2007 East of the Tree of El added
+N 5-6, H 6-7 e VH 7-8
+https://elwiki.net/w/East_of_the_Tree_of_El
+
+12/27/2007 North of the Tree of El added
+N 6-7, H 7-8 e Vh 8-9
+https://elwiki.net/w/North_of_the_Tree_of_El
+
+12/27/2007 Natural Caves added.
+N 10-11 , H 11-12 e VH 12-13
+https://elwiki.net/w/Natural_Caves
+
+12/27/2007 Shadow Forest added Lv 9-11
+05/04/2011
+
+12/27/2007 Banthus Cave added Lv 11-13
+05/04/2011
+https://elwiki.net/w/Banthus_Cave
+
+12/27/2007 Underground Waterway added Lv 13-15
+05/04/2011 
+https://elwiki.net/w/Underground_Waterway
+
+12/27/2007 Suburbs of Wally's Castle added Lv 15-17
+05/04/2011 
+https://elwiki.net/w/Suburbs_of_Wally%27s_Castle
+
+12/27/2007 Wally's Castle added Lv 13-16
+05/04/2011 
+https://elwiki.net/w/Wally%27s_Castle
+
+12/27/2007 Bethma Lake added Lv 16-19
+05/04/2011
+https://elwiki.net/w/Bethma_Lake
+
+12/27/2007 Dragon Road added
+N 19-21 , H 
+12/27/2007 Dragon Nest added Lv 19-22
+05/04/2011
+https://elwiki.net/w/Dragon_Nest
+
+12/27/2007 Bethma Gorges added
+N 23-24, H 24-25 e VH 25-26
+https://elwiki.net/w/Bethma_Gorges
+
+12/27/2007 Richie Mines Entrance added
+N 25-26, H 26-27 e VH 27-28
+https://elwiki.net/w/Richie_Mines_Entrance
+
+??/??/??? Dragon Nest:Abyss
+N 35-36, H 37-39 e VH 40-42
+https://elwiki.net/w/Dragon_Nest:_Abyss_(Old)
+
+12/27/2007 Richie Mines added Lv 22-25
+05/04/2011
+https://elwiki.net/w/Richie_Mines
+
+12/27/2007 Cargo Airship added Lv 25-28
+05/04/2011
+https://elwiki.net/w/Cargo_Airship
+
+!!! 2008 !!!
+
+28/02/2008 Elsword 2° Classe : Sword Knight ou Magic Knight
+
+30/04/2008 Altera 1° e 2°
+08/05/2008 Altera 3° e Raven
+
+Junho :
+30/06 Nasod Production 
+N 36-37, H 37-39 e VH 40-42
+https://blog.naver.com/PostView.naver?blogId=goelsword&logNo=60052707167&parentCategoryNo=1&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+
+Julho :
+14/07/2008 Ato 3 Modo X
+https://blog.naver.com/PostView.naver?blogId=goelsword&logNo=60053122910&parentCategoryNo=1&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+16/07/2008 Ato 3 X-Modo Parte 1
+https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=goelsword&logNo=60053206193&parentCategoryNo=1&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+17/07/2008 Ninho do Dragão
+24/07/2008 Ymir Time and Space Nível 50 !!!
+Ato 3 X-Modo Parte 2
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=goelsword&logNo=60053451465
+31/07/2008 Altera Core
+
+Agosto :
+15/08/2008 Altera Core
+
+Outubro :
+09/10 = Sistema de Correio
+16/10 = Sistema de Atributos
+23/10 = Sistema de Títulos
+
+18/12 = Season 2 Rainha de Nasod + Eve + 2 Masmorras para Feita + Vila
+
+///////////////////////////////////////////////
+
+!!! 2009 !!!
+
+Março :
+19/03 Reformulação de Elder, Ruben, Besma , Altera e Feita
+https://blog.naver.com/PostView.naver?blogId=goelsword&logNo=60064451326&parentCategoryNo=1&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+
+Junho :
+04/06 Reorganização da Árvore de Habilidades + 2 Habilidade Ativas para cada personagem + 1 slot de habilidade
+11/06 +2 Calabouços para Feita
+
+Julho :
+23/07 = Conqueror Secret Key of Time and Space + 2 Calabouços de Peita ( Coração e Altar )
+
+Outubro :
+29/10 Season II Act 3 = Velder , 2 calabouços e 2° classe pro Elsword
+https://www.inven.co.kr/webzine/news/?news=24199
+
+Novembro :
+12/11 3° Classe do Elsword
+23/11 Elsword 22.000 pessoas simultâneas
+
+Dezembro :
+23/12 = Novo Servidor *Gaia*
+25/12 = 23.00 Jogadores Simultâneos
+30/12 = Atualização de Habilidades da Guilda + Nível 15
+
+////////////////////////////////////////////////////////////
+
+
+!!! 2010 !!!
+
+Elsword Void Princess Solo Henir's Space- part 1
+
+Vídeo da Atualização de Habilidade :
+https://www.youtube.com/watch?time_continue=37&v=todIK3_o4kQ&feature=emb_logo&ab_channel=INVENMOVIE
+
+Janeiro:
+07/01 = 2° Classe ( Elemental e Void Princess ) da Aisha
+
+Fevereiro :
+12/02 = 2° Classe ( Blade Master e Reckris Fist ) do Raven
+18/02 = 2° Classe ( Code Nemesis e Code Empress ) da Eve
+
+Março ( Mês 3 )
+
+Abril :
+30/04 = Anúncio Elsword Season 2 Act 3 Side Story = Novo poder para se tornar forte e atualização de habilidades ativas e ativas especiais
+
+Maio ( Mês 5 )
+04/05 = Elsword Season 2 Act 3 Side Story + Hellmode ( conteúdo da Season 2 Act 3 Gaiden : A New Power to Become a Stronger ) em 3 masmorras secretas ( wolly Underground Lab , Dragon's Nest Hell e Transportation Tunnel Contaminated Area )
+
+Junho :
+22/06 = Elsword na Euorpa ( GameForge )
+
+Julho :
+14/07 = Elsword Season 2 Act 4 Part 1  
+16/07 = Elsword Season 2 Act 4 Part 1 : The Power of Rising Darkness > Ruben reduzida de 5 para 3 masmorras , Missões Épicas e Painel 
+22/07 = Nova Masmorra *Royal Palace Entrance* em Velder
+29/07 = Elsword na China ( Giant Network Group )
+30/07 = Nova Masmorra *Bridge of Burning Hope* em Velder
+
+Agosto : Temporada 2 Act 4
+05/08 = Nova Masmorra *First Commercial District* em Velder
+06/08 = Elsword na China foi bom
+13/08 = Nova masmorra *Portão Sul* em Velder
+
+Setembro :
+17/09 = Atualização do Sistema Pet ( Auto-Alimentar ) : Petit Puru, Petite Poru e Trinite
+
+Outubro :
+08/10 Guia Oficial do Elsword ( Introdução, Personagens, Masmorras, Construção, Missões e Monstros )
+
+Novembro :
+
+Dezembro :
+03/12 Elswnord no Vietnã em 2011 através da VNG
+10/12 Atualização de Habilidades ( SP exigido )
+14/12 Revelação do Chung
+23/12 Chung no jogo ( Após 2 anos de jogo ) + Hamel
+25/12 Recorde de 23.000 jogadores simultâneos
+
+////////////////////////////////////////////////////////////
+
+!!! 2011 !!!
+
+Vídeos da Atualização Mágica
+https://www.youtube.com/watch?time_continue=29&v=QoqSoLN6Cus&feature=emb_logo
+
+Janeiro :
+28/01 Elsword Act5 Cheong 6th Power : Blue Wind
+4 Masmorras de Hamel
+Lv 50 para 56
+2° Classe do Shung
+Navio de Guerra
+
+Abril :
+28/04 = Atualização Mágica : Dark Gate
+
+Junho :
+21/05 Sistema de Cartas no jogo ( 50 tipos )
+
+Julho :
+07/07 = Elsword 2° Guia Oficial 
+Outra 2° Classe do Chung ( Deadly Chaser )
+14/07 = Lv 56 para 60 com 3 novas masmorras Hamel
+
+Agosto :
+22/08 = 3° CBT da China através da Giant 
+
+Setembro :
+08/09 = Avatar 2NE1 + Novo Animal de Estimação Hatchling
+
+Dezembro :
+04/12 = Elsword na França através da GameForge
+      = Elsword na Indonésia
+20/12 = Aran
+
+//////////////////////////////////////////////////////////////////////////////
+
+!!! 2013 !!!
+
+Elsword Season 2 Act 3 Parte 1
+https://www.youtube.com/watch?v=nGVMe3X9fFE&ab_channel=ElswordPlayers
+Elsword Henir
+https://www.youtube.com/watch?v=q2Rmv9L1ISs
+
+03/01 Time of the Wind : Nova Masmorra e 60 para 62
+
+24/01 Ara 2° Classe ( Little Hsien )
+
+07/02 = Sander Novas masmorras ( 2 Track e Calusso )
+
+18/04 = Temporada 3 do Portal Negro
+
+16/05 = Festival da Convivência + Atualização do Casamento
+
+05/06 = Atualização de Reorganização de itens
+
+27/06 = Vídeo Appearance of Her lançada ( ??? )
+      = Atualização da Reorganização da Árvore de Habilidades
+
+08/07 = Voz da Elesis revelada
+18/07 = Elesis lançada 
+23/03 = Hyper Active revelada
+25/07 = Elsword na Steam
+29/07 = Vídeo das magias hiperativas
+
+01/08 = Hiperativas + Level 65 para 70 
+13/08 = Another World : +2 masmorras pra Sander ( 5 e 6 ) + Nova mudança de classe pra Ara
+22/08 = Nova Montaria : Ice Hameling
+29/08 = Reorganização da Masmorra Secreta de Hamel + Templo das Provações
+
+26/09 = Tempo e Espaço de Henir reorganizado Lv 60 - 70 + Sander Area
+
+10/10 = 3° Classe da Elesis revelada
+28/10 = Elsword nas Filipinas com a Garena
+
+07/11 = Reorganização do Equilíbrio de Habilidades ( Elsword até Elesis )
+21/11 = Invasão de Chefe Gigante , Gateway of Time se abre ao matar um certo número de monstros no campo nv 60 , 12 pessoas podem entrar e eles tem 12 minutos para derrotar , maior premiação pra quem der mais dano
+
+02/12 = Add revelado
+19/12 = Atualização de Desastre
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////
+
+
+
+
+!!! 2014 !!!
+
+28/01 até 13/02 = Ano Novo Lunar + Sistema Adicional de Véspera + Bingo
+
+21/02 = Batalha de Ereda
+27/02 = Novo Sistema de Aisha
+
+17/03 = Add nova Classe : Arc Tracer + Mastermind
+27/03 = Chefe Gigante Drabaki
+
+02/04 = Elsword CBT na Índia
+09/04 = Elsword na Ìndia
+
+Maio :
+02/05 = Teddy Bear Event Dungeon ( Gigante urso de pelúcia , masmorra até 12 pessoas , amuleto +10 e avatar de arma como recompensa )
+05/15/2014 Revamped Shadow Forest added Lv 9-12
+12/03/2014
+15/05 = Guerra no Elsword
+
+17/06 = Profissão : Caçador de Tesouros , Ferreiro e Alquimista
+
+Agosto :
+18/08 = Elesis *Cavaleira das Trevas*
+21/08 = Elesis *Crimson Avenger*
+
+Setembro :
+04/09 = Add *Time Tracer* primeiro trabalho
+11/09 = Add *Ps[iquico Diabólico* segundo trabalho
+https://www.youtube.com/watch?time_continue=12&v=_dHCdJNnAvE&feature=emb_logo&ab_channel=%EB%84%A5%EC%8A%A8%EC%97%98%EC%86%8C%EB%93%9C
+
+Novembro :
+11/20/2014 Lanox added.
+05/27/2015
+
+11/20/2014 Ash Covered Village added.
+05/27/2015
+
+01/12 = Atualização de Inverno
+09/12 = Lu/Ciel revelado
+https://www.youtube.com/watch?time_continue=7&v=SGWleO8GcJs&feature=emb_logo
+18/12 = Lu/Ciel lançado 
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+!!! 2015 !!!
+
+Janeiro :
+15/01 = Lu *Killiark* + *Royal Guard* 
+
+01/22/2015 Phantasmal Geyser added.
+07/29/2015
+
+01/22/2015 Volcanic Flame Entrance added = Lv 82-84 - 10.500
+07/29/2015
+
+Fevereiro :
+02/05/2015 Collapsing Temple of Fire added = Lv 84 - 86 - 10.640
+09/09/2015
+02/05/2015 Grand Cavern: Chasm of the Divided Land added = Lv 86-89 10.920
+09/09/2015 
+12/02 = Lu *Noblesse* e *Dreadlord*
+
+Julho :
+09/07 = Reorganização do Tutorial
+15/07 = Tutorial para cada personagem ( Elsword até Lu/Ciel )
+Floresta da Aldeia de Ruben (Elsword, Aisha, Lena)
+Laboratório de Renovação Altera (Raven)
+Núcleo Altera Core (Eva)
+Hamel de Dawn (Azul)
+Uma aldeia em chamas (Ara)
+Campo de Prática da Aldeia de Reuben (Elesis)
+Laboratório Subterrâneo do Castelo Ancião (Add)
+Lanox beco (Luciel)
+16/07 = Evento especial selecionar nome para Elsword e Rena
+Elsword = Candidato: Sangue quente? teste? Garoto? Cabeça grande? Chorando???
+Rena = Candidato: Elfo? natureza? deusa? irmã? agricultor???
+17/07 = Rosto do Elsword e Rena novos
+28/07 = Evento especial selecionar nome para Aisha e Raven
+Aisha = menina, batata, gracinha, senhora, magia
+Raven = raiva, reticência, irmão mais velho, coração frio, temperamental
+
+Agosto :
+06/08 = Novos rostos para Aisha e Raven
+https://www.youtube.com/watch?v=ykTrDCy1qJs
+07/08 = Evento Férias de Verão 2 : Vou te dar tudo + Evento : Poten Nuclear Explosion Hot Time
+Potencial de conexão / Potencial de nível / Potencial de gentileza / Potencial de missão / Novo, potencial de retorno / Potencial de proteção do PC
+e
+Conjunto completo de bilhete de guarda-roupa mágico (arma, cabelo, top / bottom, luvas, sapatos) + acessórios transparentes
+10/08 = Evento especial selecionar nome para Eve e Chung
+Eve = 'Rainha, chique, majestade, código, emoção'
+Chung = 'bonito, duro, gentil, ingênuo, educado'
+20/08 = Habilidade e rosto mudaram em Eve e Chung
+24/08 = Evento especial selecionar nome para Ara e Elesis 
+
+Setembro :
+03/09 = Novos rosto para Ara e Elesis + Habilidades reformuladas
+18/09 = L Point Shop aberta = Comprar itens especiais
+24/09 = Revisão de Add e Lu/Ciel 
+
+Novembro :
+11/05/2015 Atlas added.
+04/06/2016
+
+11/05/2015 Diceon Mines added = Lv 89-90 - 11.340
+04/06/2016
+
+11/05/2015 Atlas City added = Lv 90- 91 - 11.480
+04/06/2016
+
+11/19/2015 Elysion Tower added = Lv 91-92 - 11.760
+04/19/2016
+
+
+
+
+///////////////////////////////////////////////////////////////////////////
+
+
+
+
+!!! 2016 !!!
+
+Fevereiro :
+05/02 = Elsword Cataclysm ?
+1. Adicionado o Calabouço do Herói
+2. Reorganização do Dark Gate (A taxa de aparição do Dark Gate é aumentada e um efeito especial de buff é dado ao limpar)
+3. Reorganização da avaliação do item ('Blessed Scroll of Time and Space' é integrado para que possa ser usado independentemente do nível)
+4. Adicionado sistema de carência para exclusão de personagem (período de carência se aplica quando o personagem é excluído)
+5. Mudou a função de finalização do jogo (alterada para finalizar o jogo na janela de seleção de personagens)
+
+Maio :
+02/05 = Equilíbrio do personagens + Reorganização do modo de batalha
+
+Junho:
+06/16/2016 Elysion added.
+08/24/2016
+
+06/16/2016 Celestial Crossroads added = Lv 92-93 - 12.040
+08/28/2016
+
+06/16/2016 Adrian's Palace added = Lv 93-95 - 12.180
+08/28/2016
+
+Agosto :
+08/25/2016 Solace's Fortress added = Lv 95-97 - 12.320
+01/04/2017
+
+Novembro :
+11/16/2016 = Halted Sun's Memory added = Lv 97-99 - 12.320
+01/04/2017 
+
+!!! 2017 !!!
+
+Junho :
+06/15/2017 Hall of El region added.
+06/28/2017
+
+06/15/2017 Hall of El added = Lv 99 - 50k
+06/28/2017
+
+Julho :
+07/13/2017 Water Dragon Sanctum added = Lv 99 - 50k
+07/26/2017
+
+07/20/2017 Elrianode City added = Lv 99 - 50k
+08/02/2017
+
+07/27/2017 Debrian Laboratory added = Lv 99 - 100k dps 50k
+08/09/2017
+
+Agosto :
+08/10/2017 El Tower Defense added = Lv 99 - 150k dps 50k
+08/23/2017
+
+Novembro :
+11/30/2017 Forgotten Elrian Sanctum added = Lv 99 - 50k
+12/20/2017
+
+/////////////////////////////////////////
+
+!!! 2018 !!!
+
+Junho :
+06/28/2018 Labyrinth of Ruin added = Lv 99 - 130k
+07/11/2018
+
+06/28/2018 Guardian's Forest added = Lv 99 - 130k
+07/11/2018
+
+Julho :
+07/12/2018 Dark Elves' Outpost added = Lv 99 - 130k
+07/25/2018
+
+07/12/2018 Forsaken Spirit Asylum added = Lv 99 - 180k dps 200k
+07/25/2018
+
+07/26/2018 Crimson Tower of Howling Flames added = Lv 99 250k e 180k
+08/08/2018
+
+07/26/2018 Never-Ending Darkness added = Lv 99 250k e 180k
+08/08/2018
+
+07/26/2018 Crimson Cradle of Flames added.
+08/08/2018
+https://elwiki.net/w/Crimson_Cradle_of_Flames
+
+Dezembro :
+12/06/2018 Laby's Imaginary World added.
+01/03/2019
+
+////////////////////////////////////////////////
+2019 !!!
+
+Agosto :
+08/01/2019 Trosh's Nest added.
+08/28/2019
+
+08/01/2019 Abandoned Icerite Plant added = 500k
+08/28/2019
+
+08/14/2019 Titan's Grotto added.= 450k
+09/11/2019	
+
+07/18/2019 Sea of Ruin added.
+08/14/2019
+
+07/18/2019 Abandoned Deep-Sea Tunnel added.
+08/14/2019
+
+!!! 2020 !!!
+
+Julho :
+07/16/2020 Camp: Aurora added = Campo de Pruinum
+
+Dezembro :
+12/17/2020 Someone's Lab added = Vila do Noah
+01/13/2021
+
+!!! 2021 !!!
+
+Dezembro :
+12/23/2021 Tirnog added.
+01/12/2022
+
+12/23/2021 = Magmelia added = Camp de Tirnog
+01/12/2022

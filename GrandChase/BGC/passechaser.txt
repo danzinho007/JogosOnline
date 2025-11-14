@@ -1,0 +1,33 @@
+Passes
+Visual ------- Título15Exp
+3x DesEpic --- Visual
+5x Remov ----- PergFusaoVisual
+5x RunaT1-T5 - 3x PergPropGP
+
+ClubeGC 7d --- 3x DesEpic
+10x AnelProt - 10x AnelProt
+3x DesEpic --- MiniAi
+5x Removed --- 5x RunaT1-T5
+5x RunaT1-T5 --- 3x PerPropGP
+
+3x PergProtEsp --- 1x MissOutro
+10x AnelProt --- 10x AnelProt
+3x MissOutro --- EmoteAi
+5x Removed --- 1x PergFusaoVisual
+5x RunaT1-T5 --- 3x PerPropGP
+
+Colar+9 --- 3x DesEpic
+10x AnelProt--- 10 AnelProt
+3x MissOutro --- BonecaAi
+ResetChase --- 5x RunaT1-T5
+5x RunaT1-T5 --- 3x PergPropGP
+
+3x PergProtArq --- 3x MissOutro
+2k PedraSomb --- 10x AnelProt
+3x MissOutro --- ArmaVisual
+3x PergProtEsp --- 5x RunaT1-T5
+5x RunaT1-T5 --- 1x PergPropÚn
+
+PropSelecionável
+
+DesEpc = 

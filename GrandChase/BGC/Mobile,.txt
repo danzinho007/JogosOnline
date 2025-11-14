@@ -1,0 +1,29 @@
+Personagens :
+
+Amy = 102 e 1
+Arme = 102
+Callisto = 1
+Decane = 1
+Dio = 35
+Elesis = 127 
+Gaian = 1
+
+Grandiel = 1
+Io = 137
+Jin = 1
+Lass = 1
+Lime = 1
+Lin = 1
+Lire = 100 e 35
+
+Mari = 1
+Nella = 1
+Rey = 127 e 1
+Ronan = 1
+Ryan = 122
+Sieg = 122
+Zero = 125
+
+Altair = 1
+
+

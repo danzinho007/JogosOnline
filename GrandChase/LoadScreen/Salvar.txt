@@ -1,0 +1,40 @@
+
+Season 1 :
+S1 = Arquimaga
+S1 = Feiticeira
+S1 = Gladiadora
+S1 = Mercenário
+S1 = Ryan
+
+Season 2 :
+Ag : Amy 3° classe
+Ag : Duelista
+Ag : Pântano do Leviatã
+Árvore : Elesis
+Árvore = Arme
+Duelista
+Mari
+Sistema de União
+Tempo de mudança
+
+Season 3 :
+Altar da Ruína
+Árvore Jin
+Árvore Sieg
+Dio
+Parabéns 4° Aniversário
+
+Season Eternal :
+SEternal = Circo
+SEternal = Adeus Season Eternal
+
+Season Chaos :
+SChaos = Ag : Zero
+SChaos = As Novatas
+SChaos = Caçada
+Deusas Reencarnadas
+La Geas
+O Retorno de Talin
+Pirâmide de Seth
+Torre das Ilusões
+

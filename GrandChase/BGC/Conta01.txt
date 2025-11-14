@@ -1,0 +1,145 @@
+﻿
+Conta : DanMorishima
+Berkas :
+
+Lire 301k = Full 
+Elesis 111k = Full
+Arme 123k = Falta : Elmo, Vestimenta, Calça, Sapato e Capa 
+Sieg 138k = Falta : E, V, C, S e Capa
+Mari 130k = Falta : E, V, C, S e Capa
+Decane 115k = Só Arma
+    Falta : E, V, C, L, S e Capa
+Lupus 118k = Só Arma
+    Falta : E, V, C, L, S e Capa
+Rey 117k = Só Arma e Luva
+    Falta : E, V, C, S e Capa
+Azin 113k = Só Arma, Luva e Máscara
+    Falta : E, V, C, S e Capa
+Dio 117k = Só Arma e Luva
+    Falta : E, V, C, S e Capa 
+Edel 108k = Só Arma
+    Falta : E, V, C, L, S e Capa
+    Verifiquei Acessórios
+Veigas 104k = 
+    Falta : Tudo
+    Verifiquei Acessórios
+Ryan 101k = Só Arma, Luva e Máscara
+    Falta : E, V, C, S e Capa
+    Verifiquei Acessórios
+Holy 99k = 
+    Falta : Tudo
+    Verifiquei Acessórios
+Lin 117k = Só Luva
+    Falta : Arma, E, V, C, S e Capa
+    Verifiquei Acessórios
+Lass 116k = Só Arma e Luva
+    Falta : E, V, C, S e Capa
+    Verifiquei Acessórios
+    Ulti da 1° = 160/800
+    Ulti da 3° = OK
+Ronan 114k = Só Arma e Luva
+    Falta : E, V, C, S e Capa
+    Verifiquei Acessórios
+    Ulti da 4° = OK
+Zero 112 = Só Arma
+    Falta : E, V, C, L, S e Capa
+    Verifiquei Acessórios 
+    Ulti = OK
+Jin 11k = Só Arma
+    Falta : E, V, C, L, S e Capa
+    Verifiquei Acessórios 
+    Ulti da 3° = 96/800
+    Ulti da 4° = OK
+Amy 127k = Só Luva
+    Falta : Arma, E, V, C, S e Capa
+    Verifiquei Acessórios
+    Ulti da 1° = 240/800
+    Ulti da 4° = OK
+Ai 111k =- Full
+    Verifiquei Acessórios
+    Ulti = OK
+
+
+Conta02 : LireUser
+Obs : So tenho a Lire !!!
+Berkas 
+
+Lire 72k = Só Arma, Luva e Máscara
+    Falta : E, V, C, S e Capa
+    Falta : D, A, F e Escudo
+    Brinco : Tenho Gnosis, falta Chamas
+    Fazer : Desafio Épico, Cerco e Farmar título
+
+
+Conta02 : Testando007
+Obs : So a Lire tem todas classes !!!
+    : Não pegar classe nos outros !!!
+Berkas 
+
+Lire 217k com 25% Resist = Full com Elmo +11
+    Brincos Épicos 
+    Piercing Raro
+    Fazer : Desafio Epico, Cerco e Templo
+Elesis 63k = Falta Tudo
+    Verifiquei Acessórios
+    Ulti da 1° = 176/800
+    Esta com : Livros de Pet
+Arme 60k = Só Arma
+    Verifiquei Acessórios
+    Ulti da 1° = 150/800
+    Esta com : Pergaminhos
+Amy 53k = Falta Tudo
+    Verifiquei Acessórios
+    Ulti da 1° = 80/800
+    Esta com : Pocoes especiais
+    Cartas : Terra de Prata + Xenia
+Mari 60k = Só Luva e Arma
+    Verifiquei Acessórios
+    Esta com : Essencias + Mapa !!!
+Decane 54k = Falta Tudo
+    Upadora de Armadura !!!
+    Verifiquei Acessórios
+    Cartas : Terra de Prata
+Ryan 57k = Falta Tudo
+    Verifiquei Acessórios
+    Cartas : Gerais
+Lin Lv 82 50k = Falta Tudo
+    Verifiquei Acessórios
+    Cartas : Gerais
+Ai Lv 75 51k = Falta Tudo
+    Verifiquei Acessórios
+    Esta com : Materiais
+    Cartas : Gerais
+
+
+Conta04 : PrimeiroBR
+Conta pra ter Liz Luz e Dio Creeper
+
+Berkas 
+
+-Lire Lv 51
+Visual Tigre
+Pet : Gaicoz e  Gon
+
+-Mari Lv 82
+Visual Alma Sombria
+Pet : Gon e Hunin
+
+-Arme Lv 37
+Visual : 
+Pet :
+
+-Rey Lv 37
+Visual : 
+Pet :
+
+-Elesis Lv 37
+
+
+Conta02 : MariUserr
+Obs : So a Mari precisa ter todas classes !!!
+    : Não pegar classe nos outros !!!
+
+Mari Lv 02 2k = Berkas : Falta Tudo
+    Berkas Acessórios : Falta Tudo
+    Pegar classes + ulti
