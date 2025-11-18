@@ -1,0 +1,116 @@
+Flyff :
+
+Flaris       Lv        1-20 01
+Mars Mine             21-32 02
+Saint Morning         21-42 03
+Garden of Rhisis      43-49 04
+Darkon 1              51-68 06
+Darkon 2              69-74 07
+Darkon 3             75-105 09
+Shaduwar            105-119 10
+Valley of the Risen 121-133 14
+Kaillun             129-140 15
+Bahara Desert       137-146 16
+
+Dungeons :
+Ivillis Temple        45-70 18
+Dekane Mine Dungeon   85-95 21
+Mars Mine Dungeon   155-172 17
+
+Instance Dungeon
+The Wilds InstDung    70-80 20
+TheSavageWildsInstD   70M-80M
+Euphresia - Isle of Dreams 75+ 23
+
+Special Dungeon
+Clockworks Cave         105 22
+Forsaken Tower       62-120 19
+Volkane SpecDungeon 118-120 12
+
+Pagas
+Coral Island Paga     46-69 05
+Azria Paga           73-115 08
+Traseia Paga        116-127 11
+Dark Traseia Paga   129-161 13
+
+Flyff :
+
+Flaris       Lv        1-20 01
+Mars Mine             21-32 02
+Saint Morning         21-42 03
+Garden of Rhisis      43-49 04
+Darkon 1              51-68 06
+Darkon 2              69-74 07
+Darkon 3             75-105 09
+Shaduwar            105-119 10
+Valley of the Risen 121-133 14
+Kaillun             129-140 15
+Bahara Desert       137-146 16
+
+Dungeons :
+Ivillis Temple        45-70 18
+Dekane Mine Dungeon   85-95 21
+Mars Mine Dungeon   155-172 17
+
+Instance Dungeon
+The Wilds InstDung    70-80 20
+TheSavageWildsInstD   70M-80M
+Euphresia - Isle of Dreams 75+ 23
+
+Special Dungeon
+Clockworks Cave         105 22
+Forsaken Tower       62-120 19
+Volkane SpecDungeon 118-120 12
+
+Pagas
+Coral Island Paga     46-69 05
+Azria Paga           73-115 08
+Traseia Paga        116-127 11
+Dark Traseia Paga   129-161 13
+
+Assist
+
+Final
+
+STR: XXX
+STA: 30
+DEX: 43
+INT: 15
+
+Lv 15 ( 28 pontos )
+
+STR 15 + 28 > 43 pontos
+STA 15 
+DEX 15
+INT15
+
+Lv 20
+
+STR 43
+STA 15 + 10 > 25
+
+Lv 25 
+
+STR 43
+STA 25
+DEX 15 + 10 > 25
+
+Lv 30
+
+STR 43
+STA 25
+DEX 25 + 10 > 35
+
+Lv 35 
+
+STR 43
+STA 25 + 2 > 27
+DEX 35 + 8 > 43
+
+Lv 40
+
+STR 43 + 7
+STA 27 + 3 
+DEX 43
+
+Lv 45 Full STR

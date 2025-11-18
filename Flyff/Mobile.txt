@@ -1,0 +1,87 @@
+Monstros :
+Aibatt Lv 5
+Aibatt Capitão Lv 5
+Fungústia Lv 5
+Fungústia Capitão Lv 7
+Burudeng Lv 45
+Burdeng Capitão Lv 50
+Copescope Lv 55
+Espinhuga Lv 55
+Doridoma Lv 55
+Doridoma Capitão Lv 60
+Lolobo Lv 60
+Neneia Lv 60
+Nyangyang Lv 60
+Bang Lv 70
+Nyangyang Capitão Lv 70
+Bang Capitão Lv 75
+Seido Lv 85
+Wagsaac Lv 85
+Mia Lv 85
+Sr Abóbora Lv 90
+João Martelão Lv 90
+Torvo Lv 95
+Caixa Risonha Lv 105
+Hobo Lv 105
+Suhan Lv 110
+Touro-Asno Lv 120
+Totemia Lv 120
+Marionette Lv 125
+Vellia Lv 130
+Diabo Voador Lv 155
+Esmagador de Ivilis Lv 175
+Destruidor de Ivilis Lv 175
+Guardião de Ivilis Lv 185
+Diabo Voador Robusto Lv 190
+Diabo Voador Capitão Lv 193
+
+NPCs :
+Acrobata
+Ata
+Bill
+Bobochan
+Boboku
+Bowler
+Clackcable
+Donaris
+Dr Estern
+Frankie
+Garota Misteriosa
+Gran
+Guardião
+Hachal
+Handel
+Hastan
+Helena
+Helgar
+Heltung
+Herth
+Hotse
+Inisis
+Karandurr
+Katna
+Kurmin
+Langdrong
+Lay
+Leminerr
+Lopaze
+Losha
+Loyah
+Luda
+Maga
+Marche
+Martin
+Mayun
+Mercenário
+Mikyel
+Nomierr
+Pierce
+Porgo
+Pupit
+Radion
+Ron
+Ryupang
+Teshar
+Trovão
+Tucani
+Vianlee
