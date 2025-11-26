@@ -1,0 +1,26 @@
+﻿Localizar save dos jogos 
+
+Arquivos 
+Steam : DunDefHeroes.dun e DunDefHeroes.dun.bak
+
+Steam :
+C:\Program Files (x86)\Steam\steamapps\common\Dungeon Defenders\Binaries\Win32
+
+Steam Vers�o Redux :
+C:\Program Files (x86)\Steam\steamapps\common\Dungeon Defenders Redux\Binaries\Win32
+
+Vers�o 7.50
+C:\Program Files (x86)\Dungeon Defenders\Binaries\Win32
+
+Vers�o 7.00
+C:\Users\NomeDeUsu�rio\AppData\Local\SKIDROW\65800\Storage
+
+Pasta da 7.00
+C:\Program Files (x86)\Trendy Entertainment\Dungeon Defenders 70\Binaries\Win32
+
+Nomes :
+1- Remover o número antes do dun 
+2- O número corresponde a versão do jogo
+3- Colocar na pasta correta o savegame 
+
+dundefheroes70.dun = SaveGame da Versão 7.0

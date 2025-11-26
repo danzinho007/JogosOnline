@@ -1,0 +1,113 @@
+
+
+EntryName - Não obrigatório
+-Time Of Wave ( Tempo da Rodada )
+O tempo de início da onda em que o tipo de inimigo selecionado surge
+Exemplo : 
+0  = começa instantâneo
+10 = demora segundos
+-Enemy Template ( Modelo de inimigo ) 
+O tipo de inimigo que você deseja gerar
+Exemplo 
+''DunDefGoblin'DunDefArchetypes.EnemyGoblin''
+''DunDefDarkElf'DunDefArchetypes.EnemyDarkElf''
+
+-Player Enemy Num Multipliers - Multiplicador para o tamanho da onda dependendo dos jogadores no jogo
+-Number of enemies ( Número de inimigos )
+O número de inimigos na onda inicial que eles geram
+
+-Spawn Interval(Intervalo de Spawn)
+O tempo entre o surgimento de grupos/mobs do tipo inimigo em segundos
+Exemplo : 0.5 são 5 segundos
+
+-Random Spawn Interval
+
+-Enemy Num Scaling Expoente
+Parece ser um multiplicador de crescimento exponencial para o tamanho da onda, incerto.
+
+-Onda Mestre Mínima para este Grupo
+Onda mínima a ser alcançada antes de gerar esses inimigos
+Exemplo : 
+0 = começa em qualquer onda
+2 = começa na 2° onda
+
+-Máxima Master Wave para este grupo
+Onda máxima a ser alcançada antes de gerar esses inimigos
+
+-Maximum Number of Enemies For This Group 
+Número Máximo de Inimigos para este Grupo
+Exatamente como parece. 10 inimigos atingirão o máximo de 10 para aquela entrada de spawn.
+
+Número Mínimo de Jogadores para este Grupo
+Quantos jogadores no jogo antes deste grupo ser gerado
+
+Substituição do número máximo de grupos - À medida que os inimigos aumentam, eles se multiplicarão por grupos. Este é o máximo de quantas vezes ele pode se multiplicar.
+
+Desativar duplicação de grupo? - Desativa a função acima permitindo mais controle do número exato de inimigos em
+
+Módulo de Onda para Inclusão - Ondas incluídas. Por exemplo: Se o valor for 2, as ondas que esta entrada estará ativa são 2,4,6,8, e assim por diante. Se 5, 5,10,15,20 e assim por diante.
+
+Módulo de Onda para Exclusão - O mesmo que acima, mas para excluir ondas. Se for 2, os inimigos aparecerão em 1,3,5,7,9 e assim por diante.
+Compensação do conjunto de dificuldade - Nível do inimigo (-1 = fácil, 0 = médio, 1 = difícil, 2 = insano)
+Multiplicadores de dificuldade Num Enemy - Valor multiplicado pela quantidade de inimigos, aumentando ou diminuindo a contagem de inimigos
+
+-Enemy Element Override
+Força os inimigos a aparecerem com uma resistência elemental
+Exemplo :
+Se por : DunDefDamageType_Lightning, será Raio
+
+Tempo de duplicação de grupo do multiplicador de onda - Não usado
+
+-Usar o requisito de índice de missão personalizado?
+Isso não tenho 100% de certeza mas acredito que funciona assim. Seu nível normal é o índice 0, enquanto o desafio nesse mapa pode ser o índice 1. Isso não é realmente usado, mas seria útil para ele.
+
+-Modo Pesadelo Somente ? 
+Sim ou não 
+
+-Disabilitar em Pura Estratégia ?
+Sim ou não
+
+-Tag inimiga personalizada
+não usada
+
+-Misture Arquétipos de Inimigos Adicionais 
+Tipos de inimigos adicionais para aparecer nessa entrada, isso é usado para o Modo Mix, mas não é usado porque você pode especificar os tipos de inimigos permitidos no Modo Mix por outros meios.
+
+-Mix Permitir modelo de inimigo aleatório?
+Usei os modelos acima, sim.
+
+Mix Difficulty Offset Random factor - Como acima, mas para dificuldade não é tipo de inimigo
+Mistura desabilitada? - Habilite se você não deseja que esta entrada de spawn seja usada no Mix Mode.
+Mix Arquétipos Inimigos Não Permitidos - O que não irá aparecer no Modo Mix.
+Misture classes inimigas não permitidas - Isso ocorre para que nunca haja um erro em Ogros estar no randomizador do modo Mix.
+Misture, não randomize? - Isso desativará completamente esta entrada de spawn para consideração no modo Mix.
+Fator aleatório do número misto de inimigos - Com base em quantos inimigos estão na entrada, é o quão aleatório (padrão 150% + -) esse valor pode ser no número de inimigos.
+Chance percentual de mistura para Elemental - Chance de que no modo Mix a entrada de spawn gere um inimigo imune elemental.
+Mix Time of Wave Random Factor - NRandomiza o aspecto "Time of Wave" da entrada de spawn.
+Comentário Obj - Comentário ao lado da variável no kismet
+-Comentário Obj de saída para a tela?
+Enviar comentário do objeto para a tela quando acionado, não é necessário
+
+-Suprimir comentário automático? - Não é necessário
+
+-Var Name
+Nome da variável a ser referenciada pela variável nomeada
+
+CrystalCoreActor
+DoorBlockingVolumes
+
+-EnemyTemplate
+Tipo de Inimigo que é gerado
+-EnemySpawnAreaVolumeList
+-EnemyWaveEntries = Entrada de rodadas de inimigos
+-Entry Name = Não precisa
+
+-FinalWaveNumber
+Quantas rodadas tem o mapa
+-FirstWaveBuildTime
+Tempo em segundos até a rodada começar
+
+-GlobalTreasureChestNum = Quantos baús tem o mapa
+-GroupIncreasePerWave = Número de grupos de monstros por rodada
+-Player Enemy Num Multipliers
+-Time of Wave = Segundos que o inimigo é gerado na rodada

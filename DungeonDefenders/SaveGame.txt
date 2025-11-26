@@ -1,0 +1,19 @@
+Localizar save dos jogos 
+
+Arquivos 
+Steam : DunDefHeroes.dun e DunDefHeroes.dun.bak
+
+Steam :
+C:\Program Files (x86)\Steam\steamapps\common\Dungeon Defenders\Binaries\Win32
+
+Steam Versão Redux :
+C:\Program Files (x86)\Steam\steamapps\common\Dungeon Defenders Redux\Binaries\Win32
+
+Versão 7.52
+C:\Program Files (x86)\Dungeon Defenders\Binaries\Win32
+
+Versão 7.00
+C:\Users\NomeDeUsuário\AppData\Local\SKIDROW\65800\Storage
+
+Pasta da 7.00
+C:\Program Files (x86)\Trendy Entertainment\Dungeon Defenders 70\Binaries\Win32

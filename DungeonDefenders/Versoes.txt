@@ -1,0 +1,526 @@
+﻿Versões que eu tenho :
+
+7.00 = Versão de lançamento oficial, 
+-4 classes ( pode criar até 8 personagens sem restrição, se quiser pode ter 8 Squire ), 
+-13 Mapas na Campanha ( 12 + 1 bônus ) 
+-14 Challenges ( 13 + 1 Mapa PVP )
+-Lv 70 máximo indo até Insano ( Fácil, Médio, Difícil e Insano )
+
+7.50 = Última versão da Trendy,
+-12 classes ( pode criar até 32 personagens sem restrição, se quiser pode ter 8 Squire )
+-21 Mapas na Campanha ( 14 + 7 bônus ) 
+-46 Challenges ( 41 + 5 Mapa PVP )
+-Lv 100 Máximo indo até Pesadelo ( Fácil, Médio, Difíci, Insano e Pesadelo ) 
+-Sem a DLC The The Lost Quests
+
+Ps3 / Xbox = Versão de console, 
+-4 classes ( pode criar até 8 personagens sem restrição, se quiser pode ter 8 Squires )
+-18 mapas na Campanha ( 12 + 1 Bônus + 4 Quest for the Lost Eternia Shars + 1 Especial )
+-21 Challenges ( 17 + 4 Mapas PVP )
+-Lv 90 máximo indo até Insano + ( Fácil, Médio, Difícil, Insano e Insano + )
+
+Versão Steam = Versão de PC, 
+-13 classes ( pode criar até 40 personagens sem restrição, se quiser pode ter 40 Squires ), 
+-22 mapas na Campanha ( 13 + 9 Bônus ) + 6 de Quest for the Lost Eternia Shard + The Lost Quests 
+-Challenges
+-Lv 100 máximo indo até Nightmare ( Fácil, Médio, Difícil, Insano e Pesadelo )
+
+Versão Redux = Mesma coisa de PC 
+-12 classes
+-Adição do Modo Ascension depois do Nightmare
+-Modo Rutheless é Pura Estratégia agora é sem construir nada ( na versão original é sem batalha )
+
+https://www.magnetdl.com/file/287435/dungeon-defenders-7.41b-non-steam/
+
+!!! Falta eu ter a 
+-7.13, 78
+Achei a 7.16c
+-7.21, 78
+Achei a 7.29c
+-7.30, 83
+Achei a 7.32
+-7.38, 90
+Achei a 7.38f
+-7.42, 93
+Achei a 7.41b
+
+Level Máximo e Classes :
+
+19/10/2011 7.00 = Lv 70 com Squire, Apprentice, Huntress e Monk ( OK )
+28/10/2011 7.05 = DLC Halloween Mission Pack :
+Novo Desafio : Halloween Spooktacular
+
+23/11/2011 7.11 = 4 Novos Heróis, 1 Desafio e agora é possível criar 16 Heróis
+Novos Heróis :
+Iniciado, Condessa, Ranger e Adepto ( Intiate, Countess, Ranger and Adept )
+01/12/2011 7.12 = Novo mapa : Uber Monster Fest 
+15/12/2011 ?.?? = DLC Quest for the Lost Eternia Shards 
+Novo mapa : Mistymire Forest 
+16/12/2011 7.13 = 4 Novos mapas, Dificuldade Pesadelo, Itens Místicos e 5 novas Conquistas
+DLC Quest for tht Lost Eternia Shards
+Novos mapas :   Misty Mire Forest
+                Portal Defense
+                Life Stream Hollow Uber Monster Fest
+                Life Stream Hollow PVP 
+
+31/01/2012 7.16 = Barbarian
+14/02/2012 7.16c = DLC Etherian Festival of Love :
+Novo Desafio : Sky O'Love 
+15/02/2012 7.37 = 
+20/02/2012 ?.?? = DLC President's Day Suprise :
+Novo Desafio = Presidential Battle Royale
+14/03/2012 7.20 = 78
+15/03/2012 ?.?? = DLC Quest for the Lost Eternia Shards 
+Novo mapa : Moraggo Desert Town
+24/03/2012 7.24 = DLC Karathiki Jungle Mission Pack :
+Novos mapas :   Karathiki Jungle Map 
+                Rumble int the Jungle
+
+30/03/2012 7.25 = Series EV
+05/04/2012 7.26 = Máximo de Heróis agora é 24 ( antes era 16 )
+26/04/2012 7.30 = 83 e DLC Quest for the Lost Eternia Shards 
+Novo mapa :: Aquanos
+
+23/05/2012 7.35 = Invocador ( Summoner )
+31/05/2012 ?.?? = Mapas da DLC : 
+Talay Mining Complex e Volcanic Eruption 
+08/06/2012 7.37
+09/07/2012 7.38 = 90 ( OK )
+20/07/2012 ?.?? = DLC Quest for the Lost Eternia Shards 
+Novo mapa : Sky City 
+28/08/2012 7.40 = Bobo da Corte ( Jester )
+18/09/2012 7.42 = Lv 93 
+Mostra 8 por página agora
+16/10/2012 7.43 = Lv 100 Atual ( OK )
+30/10/2012 7.44 = 
+21/12/2012 7.47 = 1 Desafio, 1 Mapa e Aumento do número de Heróis para 32
+
+26/06/2013 7.50 = Última atualização da Trendy ( OK ) sem a DLC The Lost Quests, 1 Mapa, 1 Desafio e 4 Conquistas 
+Novo Mapa : Tinkerer's Lab 
+Novo Desafio : Lab Assault 
+
+10/12/2015 8.01 = 1 Novo Mapa e Desafio
+Novo Mapa : Buccaneer Bay
+Novo Desafio : Pirate Invasion
+
+??/??/20?? 8.3 = Nova Taverna, Novo Desafio, Nova Campanha e Aumento do Número de Heróis para 40
+
+09/11/2019 8.7 = Última atualização da CDT ( Community Develpment Team ) e 4 Novos Mapas
+
+29/06/2023 9.20 = Eremita ( Hermit )
+
+
+download_depot 65800 65801 6532943390642499525
+download_depot 65800 204384 6401578685848314000
+
+Dungeon Defenders Mapas :
+
+Version History
+Dungeon Defenders Development Team (DDT)
+9.4.0
+Added Crystal Cave
+Added No Towers Allowed: Crystal Cave
+9.3.0
+Added Tropics of Etheria
+9.2.0
+Added Lifestream Hollow
+Added Forest Ogre Crush
+Added Small Emerald City
+9.1.0
+Added Lover's Paradise
+Added Wandering Heart
+9.0.0:
+Added Spooktacular Bay
+Added The Striking Tree
+Added Challenge: Halloween Invasion
+Added Challenge: Tavern Incursion
+Redux
+12.0.0:
+Added Winter Wonderland 2
+Added Town in the Cliffs
+Added Halloween Spooktacular 3!
+Added Crystal Cave
+Added Assault Challenge Pack: Returnia
+Added Assault Challenge Pack: Halloween Assault
+Added Challenge: Spooky Invasion
+Added Challenge: No Towers Allowed: Crystal Cave
+Added Challenge: The Great Turkey Defense
+Added Challenge: Crystal Escort: Wandering Heart
+CDT
+8.7:
+Added Winter Mire
+Added Magus Citadel
+Added Omenak
+Added Infested Ruins
+Added Challenge: Tomb of Etheria
+Added Challenge: Crystal Escort: Spring Valley
+Added Challenge: True Boss Rush
+8.6:
+Added Coastal Bazaar
+Added Challenge: Crystalline Resurgence: Part 4
+8.5:
+Added Emerald City
+Added Challenge: Flames of Rebirth
+8.4:
+Added Arcane Library
+Added Crystalline Resurgence: Part 1
+Added Crystalline Resurgence: Part 2
+Added Crystalline Resurgence: Part 3
+8.3:
+Added Dread Dungeon
+Added Temple of Water
+Added Challenge: Temple of Polybius
+8.2:
+Added Embermount Volcano
+8.1:
+Added Buccaneer Bay
+Added Challenge: Pirate Invasion
+8.0:
+Added Moonbase
+
+7.50
+DLC : Tinkerer's Lab
+DLC Challenge : Lab Assault
+7.49 
+7.48 ( 14/01/2013 )
+Challenge : Temple O'Love
+7.47 ( 21/12/2012 )
+DLC Challenge : Silent Night
+Campanha : Winter Wonderland
+7.46 07/12/2012
+Campanha : Akatiti Jungle
+PVP : Tower Wars 
+7.45 ( 21/11/2012 )
+Challenge : The Greater Turkey Hunt
+7.44 ( 30/10/2012 )
+Halloween Spooktacular 2 / 2012
+7.43 ( 16/10/2012 )
+DLC : Anniversary Pack 
+DLC : Tavern Defense
+7.40 (08/08/2012 )
+Herói : Jester
+Campanha : The King's Game
+7.39  ( 19/07/2012 )
+Campanha : Palantir
+7.38 até 7.49
+DLC Challenge : Temple O'Love
+7.38c ( 10/07/2012 )
+DLC Quest for the Lost Eternia Shards Part 4 
+DLC : Sky City 
+DLC Challenge : Boss Rush
+7.38 ( 09/07/2012 )
+Level Máximo 90
+7.37 ( 08/06/2012 )
+Level Máximo 83 ( 7.30 )
+
+7.36 ( 31/05/2012 )
+DLC Talay Mining Complex Mission Pack
+DLC : Talay Mining Complex
+DLC Challenge : Volcanic Eruption
+7.30 ( 26/04/2012 )
+DLC Quest for the Lost Eternia Shards Part 3
+DLC : Aquanos
+DLC Challenge : Riddle of the Deep
+DLC Challenge : Shipwreck Ruins Monsterfest
+DLC PVP : Shipwreck Ruins
+7.28 ( 13/04/2012 )
+DLC City in the Cliffs Mission Pack
+DLC : City in the Cliffs
+DLC Challenge : Uber Death From Above
+
+7.25c 
+Download : DLC Parte 1 e 2
+7.24 ( 24/03/2012 )
+DLC : Karathiki Jungle
+DLC Challenge : Rumble in the Jungle
+DLC Challenge : The Greater Turkey (!)
+DLC Challenge : The Greater Turkey Hunt (!)
+7.22 ( 16/03/2012 )
+DLC Quest for the Lost Eternia Shards Part 2
+DLC : Moraggo Desert Town
+DLC Challenge : War of the Djinn
+DLC Challenge : Oasis Monster Fest
+DLC PVP : Oasis
+
+7.18 ( 20/02/2012 )
+DLC President's Day Suprise
+DLC Challenge : Presidential Battle Royale
+7.16c ( 10/02/2012 )
+DLC Challenge : Sky O'Love (!)
+7.16 ( 31/01/2012 )
+DLC Assault Mission Pack
+DLC Challenge : Assault Part 1
+Mapa : Mistymire Forest
+DLC Challenge : Assault Part 2
+Mapa : Tree of Life
+DLC Challenge : Assault Part 3 
+Mapa : Etherian Mines
+
+7.14 ( 19/12/2011 ? )
+DLC Etherian Holiday Extravaganza 
+DLC Challenge : Etherian Holiday Extravaganza
+7.13 ( 16/12/2011 )
+DLC Quest of the Lost Eternia Shards Part 1
+DLC : Mistymire Forest
+DLC Challenge : Portal Defense
+DLC Challenge : Lifestrem Hollow PVP
+DLC Challenge : Uber Lifestream Hollow Monster Fest
+DLC PVP : Uber Monster Fest ( !!! )
+7.12 ( 01/12/2011 )
+7.11 ( 23/11/2011 )
+DLC Warping Core Challenge Mission Pack
+DLC Challenge : Warping Core Part 1
+DLC Challenge : Warping Core Part 2
+DLC Challenge : Warping Core Part 3
+DLC Challenge : Warping Core Part 4
+7.05 ( 20/10/2011 )
+DLC Halloween Mission Pack
+DLC Challenge : Halloween Spooktacular
+
+https://dungeondefenders.fandom.com/wiki/Etherian_Holiday_Extravaganza_DLC
+https://dungeondefenders.fandom.com/wiki/Silent_Night
+https://dungeondefenders.fandom.com/wiki/Sky_O%27_Love
+https://dungeondefenders.fandom.com/wiki/Temple_O%27_Love
+https://dungeondefenders.fandom.com/wiki/The_Greater_Turkey_Hunt!
+https://dungeondefenders.fandom.com/wiki/Uber_Monster_Fest
+https://dungeondefenders.fandom.com/wiki/Patch_Notes_(PC)/Archives
+https://dungeondefenders.fandom.com/wiki/Patch_Notes_(PC)/Recent#7.27
+
+DLCs : 
+01- Anniversary Pack = Gratuito, Campanha
+02- Assault Mission Pack = 3 Challenges
+03- Barbarian Hero = Novo Herói
+04- Capture the Flag = Gratuito
+05- City in the Cliffs = Campanha e Challenge
+06- Etherian Holiday Exteavaganza = 
+07- Etherian Festival of Love = Challenge
+08- Halloween Mission Pack = Challenge
+09- Hermit Hero = Novo Herói
+10- Jester Hero Class = 
+11- Karathiki Jungle Mission Pack = 
+12- Lucky Costume Pack =
+13- New Heroes = 4 Novos Heróis
+14- Penny Arcade Character Pack = 
+15- President's Day Suprise = 
+16- Quest for the lost Eternia Shards Part 1 = 
+17- Quest for the lost Eternia Shards Part 2 = 
+18- Quest for the lost Eternia Shards Part 3 =
+19- Quest for the lost Eternia Shards Part 4 =  
+20- Series EV = 
+21- Summoner Hero Class = Novo Herói
+22- Talay Mining Complex = 
+23- The Great Turkey Hunt = 
+24- Tinkerer's Lab = 
+25- Warping Core Challenge = 
+
+01-The Deeper Well = 7.0
+02-Foundries and Forges = 7.0
+03-Magus Quarters = 7.0
+04-Alchemical Laboratory = 7.0
+05-Servant Quarters = 7.0
+06-Castle Armory = 7.0
+07-Hall of Court = 7.0
+08-The Throne Room = 7.0
+09-Royal Gardens = 7.0
+10-The Ramparts = 7.0
+11-Endless Spires = 7.0
+12-The Summit = 7.0
+13-Glitterhelm Caverns = 7.0
+14-DLC-Chall : Halloween Spooktacular = 7.05
+15-DLC-Chall : Warping Core Part 1 = 7.11
+16-DLC-Chall : Warping Core Part 2 = 7.11
+17-DLC-Chall : Warping Core Part 3 = 7.11
+18-DLC-Chall : Warping Core Part 4 = 7.11
+19-DLC : Mistymire Forest = 7.13
+20-DLC-Chall : Portal Defense = 7.13
+21-DLC-Chall : Lifestream Hollow PVP = 7.13
+Dificulde Pesadelo
+22-DLC-Chall : Uber Lifestream Hollow Monster Fest = 7.13
+23-DLC-Chall : Etherian Holiday Extravaganza = 7.14
+24-DLC-Chall : Assault Part 1 Mapa Mistymire = 7.16
+25-DLC-Chall : Assault Part 2 Mapa Tree of Life = 7.16
+26-DLC-Chall : Assault Part 3 Mapa Etherian Mines = 7.16
+27-DLC-Chall : Sky O'Love = 7.16c
+28-DLC-Chall : Presidential Battle Royale = 7.18
+29-DLC : Moraggo Desert Town = 7.22
+30-DLC-Chall : War of the Djinn = 7.22
+31-DLC-Chall : Oasis Monster Fest = 7.22
+32-DLC-PVP : Oasis = 7.22
+33-DLC : Karathiki Jungle = 7.24
+34-DLC-Chall : Rumble in the Jungle = 7.24
+35-DLC-Chall : The Greater Turkey = 7.24
+36-DLC-Chall : The Greater Turkey Hunt = 7.24
+37-14-City in the Cliffs = 7.28
+38-DLC-Chall : Uber Death From Above = 7.28
+39-DLC : Aquanos = 7.30
+40-DLC-Chall : Riddle of the Deep = 7.30
+41-DLC-Chall : Shipwreck Ruins Monsterfest = 7.30
+42-DLC-PVP : Shipwreck Ruins = 7.30
+43-Talay Mining Complex = 7.36
+44-DLC-Chall : Volcanic Eruption = 7.36
+45-DLC : Sky City = 7.38c
+46-DLC-Chall : Boss Rush = 7.38c
+47-Palantir = 7.39
+48-The King's Game = 7.40 
+49-Tavern Defense = 7.43
+50-Chall : Halloween Spooktacular 2 / 2012 = 7.44
+51-Chall : The Greater Turkey Hunt = 7.45
+52-Akatiti Jungle = 7.46
+53-PVP : Tower Wars = 7.46
+54-Winter Wonderland = 7.47
+55-DLC-Chall : Silent Night = 7.47
+56-Chall : Temple O'Love = 7.48
+57-The Tinkerer's Lab = 7.50
+58-DLC-Chall : Lab Assault = 7.50
+59-Moonbase = 8.0
+60-Buccaneer Bay = 8.1
+61-Chall : Pirate Invasion = 8.1
+62-Embermount Volcano = 8.2
+63-Dread Dungeon = 8.3
+64-Temple of Water = 8.3
+65-Chall : Temple of Polybius = 8.3
+66-Arcane Library = 8.4
+67-Crystalline Resurgence Part 1 = 8.4
+68-Crystalline Resurgence Part 2 = 8.4
+69-Crystalline Resurgence Part 3 = 8.4
+70-Emerald City = 8.5
+71-Chall : Flames of Rebirth = 8.5
+72-Coastal Bazaar = 8.6
+73-Chall : Crystalline Resurgenge = 8.6
+74-Winter Mire = 8.7
+75-Magus Citadel = 8.7
+76-Omenak = 8.7
+77-Infested Ruins = 8.7
+78-Chall : Tomb of Etheria = 8.7
+79-Chall : Crystal Escort : Spring Valley = 8.7
+80-Chall : True Boss Rush = 8.7
+81-Spooktacular Bay = 9.0
+82-The Striking Tree = 9.0
+83-Chall : Halloween Invasion = 9.0
+84-Chall : Tavern Incursion = 9.0
+85-Lover's Paradise = 9.1
+86-Wandering Heart = 9.1
+87-Lifestream Hollow = 9.2
+88-Forest Ogre Crush = 9.2
+89-Small Emerald City = 9.2
+90-Tropics of Etheria = 9.3
+91-Crystal Cave = 9.4
+92-No Towers Allowed Crystal Cave = 9.4
+
+Campanha : 22
+Challenge : 49 ( 71 )
+DLC Quest : 05 ( 76 )
+DLC Lost Quest : 
+
+Arcane Library = 8.4
+Buccaneer Bay = 8.1
+Coastal Bazaar = 8.6
+Crystal Cave = 9.4.0
+Crystalline Resurgence Part 1 = 8.4
+Crystalline Resurgence Part 2 = 8.4
+Crystalline Resurgence Part 3 = 8.4
+Dread Dungeon = 8.3
+Embermount Volcano = 8.2
+Emerald City = 8.5
+Forest Ogre Crush = 9.2.0
+Infested Ruins = 8.7
+Lifestream Hollow = 9.2.0
+Lover's Paradise = 9.1.0
+Magus Citadel = 8.7
+Omenak = 8.7
+Small Emerald City = 9.2.0
+Spooktacular Bay = 9.0.0
+Temple of Water = 8.3
+The Striking Tree = 9.0.0
+Tropics of Etheria = 9.3.0
+Wandering Heart = 9.1.0
+Winter Mire = 8.7
+
+DLCs : 
+
+01- Advanced Technology Pack
+Já vem com o jogo ?
+
+02- DQuest for the Lost Eternia Shards Part 4
+Loja 01 + Pacote
+
+03- City in the CLiff Mission pack
+Loja 02 + Pacote
+
+04- Etherian Holiday Extravaganza
+Loja ! + Pacote
+
+05- Hermit Hero DLC 
+Loja 03
+
+06- Karathiki Jungle Mission Pack
+Loja 04 + Pacote
+
+07- New Heroes Pack 1
+Loja 05 + Pacote
+
+08- President's Day Suprise
+Loja 06 + Pacote
+
+09- Quest for the Lost Eternia Shards Part 1
+LOja 07 + Pacote
+
+10- Quest for the Lost Eternia Shards Part 2
+Loja 08 + Pacote
+
+11- Quest for the Lost Eternia Shards Part 3
+Loja 09 + Pacote
+
+12- Series EV Hero DLC
+Loja 10 + Pacote
+
+13- Summoner Hero DLC
+Loja 11  + Pacote
+
+14- Talay Mining Complex Mission Pack
+Loja 12 + Pacote
+
+15- Tinkerer's Lab Mission Pack
+Loja 13 + Pacote
+
+16- Warping Core Challenge Mission Pack
+Loja 14 + Pacote
+
+17- Anniversary Pack
+Gratuito Loja 15 + Pacote
+
+18- DLC 8
+Gratuito Loja 16
+
+19- Halloween Costume Pack
++ Pacote 
+
+20- Halloween Mission Pack
++ Pacote
+
+21- Lucky Community Costume Pack
+Loja 17 + Pacote
+
+22- Arcade Costume Pack
+Loja 18 + Pacote
+
+23- Assault Mission Pack
+Loja 19 + Pacote
+
+24- Barbarian Hero DLC
+Loja 20 + Pacote
+
+25- Etherian Festival of Love
+Loja 21 + Pacote
+
+26- The Great Turkey Hunt Mission & Costumes
+Loja 22 + Pacote
+
+27- DLC 7
+Versão Desenvolvedor
+
+28- Jester Hero
+Loja 23 + Pacote
+
+29- Elite Gear Pack 
+Já vem com o jogo ?

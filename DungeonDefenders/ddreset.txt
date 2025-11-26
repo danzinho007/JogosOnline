@@ -1,0 +1,70 @@
+Demo = Grava no Oficial
+Tenho save no oficial > Corrompe na Demo
+Tenho save na Demo > Testar agora
+Desenvolvedor puxa os dados da Oficial
+Local
+Redux diferente de TUDO
+
+
+
+Start game > 64/118 Achviements 
+Reset acc and ach 0/118
+Start > 5/118
+Beta online > 64/118
+Reset ach
+Start on > 5/118
+
+7.00 até 7.50 = TRENDY
+7.37 = FAILED
+7.50 = 8380557276238493850 : POSSIBLE FAILED
+
+8.00+ = CDT
+8.00 = 7721354898937235836 : TESTING
+
+
+
+
+How to reset your account and achievements:
+
+0- If you want to reset only the online version, copy the files DunDefHeroes.dun.bak and DunDefHeroes.dun from the Binaries > Win32 folder to another
+OK
+1- Download the version of game
+OK 7.37
+2- Disable the cloud on Steam
+OK
+3- Substitua os arquivos
+OK
+4-Windows+R : steam://open/console
+Steam console: reset_all_stats 65800
+OK
+5-Enter in game online 
+OK 
+Failed !!!
+6-Exit the game and activate the cloud on Steam
+OK
+7-Enter in game online 
+Failed
+8-Go back to the guide and check the integrity of the game files
+
+9-Once finished, just enter the game
+
+3- Follow this guide, no enter ingame !!!
+https://steamcommunity.com/sharedfiles/filedetails/?id=3027057422
+
+But before entering the game, write to the Steam console: reset_all_stats 65800
+This will reset all achievements, switch to another game and then return to it to see it reset (no need to enter the game, just click)
+(I saw this here:
+
+Reset Game Achievements on Steam 
+Um guia para Evil Genius
+Por: TabMising
+This guide explains how to reset game achievements in Steam.
+
+3- Enter version 7.44 online, create a character and enter the tavern
+4- Exit the game and activate the cloud on Steam
+5- Do the 3rd step again
+This will cause the cloud to save your progress
+6- Go back to the guide and check the integrity of the game files
+https://steamcommunity.com/sharedfiles/filedetails/?id=3027057422
+7- Once finished, just enter the game
+Português Editar

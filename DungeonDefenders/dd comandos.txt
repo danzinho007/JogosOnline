@@ -1,0 +1,89 @@
+Não sei :
+
+AllAmmo = 
+AllWeapons = Permite usar todas armas ?
+Get
+GetMinimumEquipmentQualityIndex Float =
+GiveWeapon FString Class = 
+Jump = 
+SetEquipmentLevelRequirement = Não dropou nenhum item e nem foi pro banco
+Teleport = 
+
+Comandos :
+
+AddLocalBankMana X = Adiciona Mana ao banco do personagem, X é a quantidade
+AddMana X = Adiciona Mana ao personagem, X é a quantidade
+FillMyStats = Completa todos os mapas com a máxima pontuação e onda
+Fly = Voar com o personagem
+Ghost = Voar com o personagem
+God = Modo Deus, você não perde vida
+GodAll = Ativa o Modo Deus pra você e pro cristal
+GodCore = O Cristal não perde vida 
+InstantUpgrades = Upa todas torres / invocações pro máximo
+JumpPressed = Personagem pula
+KillAllNonBossEnemies = Mata todos os inimigos, menos os chefes
+KillMe = Mata o personagem
+KillPawns = Mata todos os monstros da onda, não dropa itens assim
+Open = Abrir qualquer mapa do jogo que seja editável
+Respect = Redistribui os atributos
+SetHero X
+SpawnDjinnChallenge X Y = Invoca numa distância X a quantidade Y de DjinnChallenge precisa ser usado na 2° onda do mapa pra dropar itens
+DoLevelVictory = Vence o mapa
+SetHeroLevel X = Upa pro nível X ( de 1 até 100 ), se redistribuir os pontos, o nível volta pro original
+SpawnGoblin X Y = 
+SpawnKraken X Y = Invoca numa distância X a quantidade Y de Kraken precisa ser usado na 2° onda do mapa pra dropar itens, não funciona  no mapa Palantir
+SpawnOgre X Y = Invoca numa distância X a quantidade Y de Ogros, precisa ser usado na 2° onda do mapa pra dropar itens
+SpawnSnowman X Y = Invoca numa distância X a quantidade Y de Snowman, precisa ser usado na 2° onda do mapa pra dropar itens, não funciona  no mapa Palantir
+Start NomeDoMapa = Começa qualquer mapa do jogo que seja editável
+Stat Fps = Mostra o FPS e o ms na tela
+Stat Game = Mostra informações de Performa na tela
+Stat Levels = Mostra o nome do Mapa na tela
+Stat Memory = Mostra informações de Memória na tela
+UnlockAchievements1 = Desabilita
+UnlockAchievements2
+UnlockAllCostumes
+UnlockAllHeroes
+UnlockAllLevels
+Walk = Cair quando estiver voando 
+ZoomCamera 
+
+Hero Stat Values (SetEquipmetHeroStatValue)
+
+1  Hero HP
+2  Hero Speed
+3  Hero Dmg
+4  Hero cast
+5  Ab1 
+6  Ab2
+7  Twr HP 
+8  Twr rate 
+9  Twr Dmg 
+10 Twr Range
+
+Equipment Stat Value (SetEquipmentStatValue)
+
+0  Weapon Base Damage
+1  Weapon Alt Damage
+2  Elemental Damage
+3  Shots Per Second
+4  Clip Size
+5  Reload Speed
+6  Knockback
+7  Charge Rate (128 max)
+8  Blocking
+9  Projectiles
+10 Projectile Speed
+
+Pet Equipment Stat Value (SetEquipmentStatValue)
+
+0 Base Damage
+1 Alt Damage
+2  additional elemental dmg
+3  attack speed
+4  boost
+5  Range
+6  Defence resistance boost
+7  Defence Range Boost
+8  blocking dmg resistance
+9   Number of heroes boosted
+10  proj speed
